@@ -1,4 +1,4 @@
-#EGL wesbite
+#EGL website
 by @codenberg
 
 ##Environment Setup
