@@ -9947,7 +9947,7 @@ border-radius: 100%;
     border-bottom: 1px solid #999999;
   }
 }
-@media (max-width: 1330px) {
+@media (max-width: 1360px) {
   .tagline {
     display: none;
   }

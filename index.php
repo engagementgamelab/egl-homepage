@@ -109,10 +109,10 @@
 							<br><br>
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> Games for Democracy: 5 Takeaways From Playing @Stake at the Frontiers of Democracy Conference, by Becky Michelson <a href='/blog'>[read the post]</a>
+								 <b>NEWS:</b> Paul Mihailidis lays out the importance of news literacy and reflects on the growing field. <a href='/blog'>[read the post]</a>
 							</span>
-							<br><br>
-							<?php include 'email-signup.php' ?>
+							<!-- <br><br> -->
+							<!-- < ?php include 'email-signup.php' ?> -->
 						</p>
 					</div>
 					<div class='rightHalf'>
