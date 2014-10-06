@@ -1,7 +1,10 @@
-<title>EGL</title>
+<title>Engagement Game Lab</title>
+<meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
-<meta name='description' content='research lab for social games and civic engagement at Emerson College'>
-<meta name='author' content='russell goldenberg'>
+<meta property='og:title' content='Engagement Game Lab'>
+<meta property='og:description' content='We are an applied research lab at Emerson College that designs and studies playful approaches for civic engagement.'>
+<meta property='og:image' content='/img/other/EGL_logo.png'>
+<meta name='author' content='Engagement Game Lab'>
 <meta name='keywords' content='EGL, Engagement Game Lab, Boston, Massachusetts, games, data visualization, civic engagement, research, social, gamification, social games, games for change'>
 <meta name='distribution' content='web'>
 <!-- <link href='http://fonts.googleapis.com/css?family=Arvo:400,700|Average+Sans:400' rel='stylesheet' 
