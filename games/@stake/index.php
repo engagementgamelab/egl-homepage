@@ -26,7 +26,7 @@
 								Development
 							</h2>
 							<p>	
-								This project focused on one key challenge - the limitations among the untrained public to adequately understand abstract space. But urban planning poses other challenges as well. Most notable is conflict negotiation. Planning issues often involve conflicting interests coupled with deep resentments and community divides. Building a new highway, for example, is seldom only a question of the highway's design, but the destiny of the land, the community, and individual residents. 
+								Planning issues often involve conflicting interests coupled with deep resentments and community divides. Building a new highway, for example, is seldom only a question of the highway's design, but the destiny of the land, the community, and individual residents. 
 							</p>
 							<p>
 								We were amazed at the success of @Stake in driving productive conversation at our UNDP workshop, and took it back to the Lab for further development. Since then, it&#39;s been used at the Frontiers of Democracy Conference, The Jewish Federation, youth ambassador programs for inner city planning institutions in Boston, and the United Nations in New York. Numerous expansions and customization packs have made the game robust enough to aid in processes of all types nationally and across the world.
