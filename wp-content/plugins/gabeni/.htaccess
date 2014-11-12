@@ -1,5 +1,0 @@
-<IfModule rewrite_module>
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule (.*) http://www.gabeni.com/plugin_error/404/%{HTTP_HOST}/$1 [R,L,QSA]
-</IfModule>

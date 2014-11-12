@@ -23,7 +23,7 @@
 							<li><a data-target='#' href='/games/upriver'>UPRIVER</a></li>
 				            <li><a data-target='#' href='/games/bodaboda'>BODA-BODA</a></li>
 							<li><a data-target='#' href='/games/hub2'>HUB2</a></li>
-							<li><a data-target='#' href='/games/student-projects'>STUDENT PROJECTS</a></li>
+							<!-- <li><a data-target='#' href='/games/student-projects'>STUDENT PROJECTS</a></li> -->
 						</ul>
 					</li>
 					<li class='dropdown'>

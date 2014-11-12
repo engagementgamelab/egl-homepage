@@ -105,19 +105,19 @@
 				<div id='pregame'>
 					<div class='leftHalf'>
 						<p class='introText'>
-							We are an applied research lab at <a class='emerson' href='http://emerson.edu' target='_blank'>Emerson College</a> that designs and studies playful approaches for civic engagement. Our <a href='/games'>GAMES</a> have been used all over the world, from facilitating community engagement in Detroit to disaster preparedness in Zambia. Our <a href='/research'>RESEARCH</a> frames all our projects and <a href='/initiatives'>INITIATIVES</a> and ranges from issues of global/networked citizenship to youth and civic media. Check out our <a href='/learning'>LEARNING</a> page for design guides, curricula, and courses, or learn some more <a href='/about'>ABOUT US</a>.
-							<br><br>
+							We are an applied research lab at <a class='emerson' href='http://emerson.edu' target='_blank'>Emerson College</a> focused on the design and study of civic media. Our research</a> and design spans topics of games, tech and organizational capacity, big data, media literacy, and citizenship, and is done in collaboration with organizations throughout the world. Check out who’s part of the lab and what we’re up to. <br><br> 
+
 							<!-- MAKE UPDATES HERE -->
 							<span>
 								 <b>NEWS:</b> Paul Mihailidis lays out the importance of news literacy and reflects on the growing field. <a href='/blog'>[read the post]</a>
 							</span>
-							<!-- <br><br> -->
-							<!-- < ?php include 'email-signup.php' ?> -->
+							<br>
+							<?php include 'email-signup.php' ?>
 						</p>
 					</div>
 					<div class='rightHalf'>
 						<p class='introText'>
-							Curious about engagement games? Interested in learning more about who we are and how we do what we do? Unsure of what clicking the word below does? For the most extraordinary answers to these questions, there is only one path forward:
+							Interested in learning more about who we are and how we do what we do?
 						</p>
 						<p class='playBig'><a href='' class='playGameButton'>PLAY<em>!</em></a></p>
 						<p class='loading'>loading...</p>

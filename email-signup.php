@@ -2,7 +2,7 @@
 <div id="mc_wrapper">
 	<div id="mc_embed_signup">
 		<form action="http://engagementgamelab.us6.list-manage.com/subscribe/post?u=8cb16e3042072f11cc0680d36&amp;id=e9f56f4f4d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-			<h2>Subscribe to our mailing list</h2>
+			<h2>Join our newsletter for updates.</h2>
 			<div class="mc-field-group">
 				<!-- <label for="mce-FNAME">First Name </label> -->
 				<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="First Name">
