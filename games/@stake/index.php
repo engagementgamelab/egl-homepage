@@ -36,7 +36,7 @@
 							</p>
 						</div>
 						<div class='span6 videoContainer'>
-							<img src='../../img/projects/other/@stakecard.png'>
+							<iframe src="//player.vimeo.com/video/111892702?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
 						</div>
 					</div>
 				</div>
@@ -63,6 +63,9 @@
 								<span>Decider</span> At the end of the round, the Decider must pick a winning pitch. That winning player earns points, then every player earns bonus points based on their agenda items. The new decider is the player that won the previous round.
 							</P>
 							<p><span>Rulebook and downloadable materials coming soon!</span></p>
+							<div class='span6 videoContainer'>
+								<img src='../../img/projects/other/@stakecard.png'>
+							</div>
 						</div>
 					</div>
 				</div>

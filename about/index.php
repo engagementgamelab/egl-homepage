@@ -230,8 +230,6 @@
 									<br>
 									<span class='studentName'>Brandon Sichling</span>- Research (games and identity)
 									<br>
-									<span class='studentName'>Hanhah Engleson</span>- Video production
-									<br>
 									<span class='studentName'>Jordan Pailthorpe</span>- Game writing
 									<br>
 									<br>
@@ -240,6 +238,8 @@
 									<span class='studentName'>Alexandra Eby</span>- Graphics
 									<br>
 									<span class='studentName'>Sean Vaccaro</span>- Production Assistant
+									<br>
+									<span class='studentName'>Dan Barkus</span>- Handyman
 								</p>
 							</div>
 						</div>

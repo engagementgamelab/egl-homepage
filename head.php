@@ -21,5 +21,6 @@ type='text/css'> -->
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-41820986-1', 'engagementgamelab.org');
+  ga('require', 'displayfeatures');
   ga('send', 'pageview');
 </script>
