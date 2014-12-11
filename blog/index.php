@@ -1,17 +1,33 @@
-<?php
-/**
- * Front to the WordPress application. This file doesn't do anything, but loads
- * wp-blog-header.php which does and tells WordPress to load the theme.
- *
- * @package WordPress
- */
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<?php include '../head.php' ?>
+	</head>
+	<body>
+		<div id='wrap'>
+  			<?php include '../nav.php' ?>
+  			<div class='container'>
+  				<div class='row'>
+	  				<div class='span12'>
+	  					<h1 class='blogTitle'>Blog</h1>
+	  				</div>
+  				</div>
+			</div>
+			<div class='container blogContainer'>
+			</div>
+			<div id='push'></div>
+   		</div>
+   		<div id='blog'></div>
+   		<?php include '../footer.php' ?>
 
-/**
- * Tells WordPress to load the WordPress theme and output it.
- *
- * @var bool
- */
-define('WP_USE_THEMES', true);
-
-/** Loads the WordPress Environment and Template */
-require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+    	<!-- Los javascripts -->
+    	<script src='/js/libs/lab.js'></script>
+    	<script>
+    		$LAB
+    		.script('/js/libs/jquery.min.js').wait()
+			.script('/js/libs/bootstrap.min.js')
+			.script('/js/libs/plugins.js').wait()
+			.script('/js/other/blog.js');
+    	</script>
+  </body>
+</html>
