@@ -11,3 +11,48 @@
 
 /* =Theme customization starts here
 -------------------------------------------------------------- */
+
+.blogTitle a {
+	font-weight: 800 !important;
+	color: #FF5622;
+	letter-spacing: 1px;
+}
+
+.blogTitle a:hover {
+	color: #D43200;
+}
+
+.postTitle {
+	font-weight: 700 !important;
+}
+
+.postTitle a {
+	font-size: 1.0em;
+	font-weight: 700 !important;
+	color: #555;
+	letter-spacing: 0.3px;
+}
+
+.postAuthor a {
+	font-size: 1.0em;
+	font-weight: 500;
+	color: #555;
+}
+
+.postDate a {
+	font-size: 1.0em;
+	font-weight: 500;
+	color: #78CBD1;
+}
+
+.comments-link a {
+	font-size: 1.0em;
+}
+
+.edit-link a {
+	color: #555;
+}
+
+.edit-link:before {
+	content: "- ";
+}

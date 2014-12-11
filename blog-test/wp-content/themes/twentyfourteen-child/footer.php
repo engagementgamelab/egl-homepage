@@ -10,12 +10,12 @@
  */
 ?>
 
-			</div><!-- #main -->
-		</div><!-- #wrap -->
-
-		<?php include $_SERVER['DOCUMENT_ROOT']."/footer.php"; ?>
+		</div><!-- #main -->
 	</div><!-- #page -->
 
+	<?php include $_SERVER['DOCUMENT_ROOT']."/footer.php"; ?>
+
 	<?php wp_footer(); ?>
+</div><!-- #wrap -->
 </body>
 </html>

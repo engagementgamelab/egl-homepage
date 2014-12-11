@@ -31,20 +31,25 @@
 </head>
 
 <body <?php body_class(); ?>>
-	<div class="wrap">
-		<?php include $_SERVER['DOCUMENT_ROOT']."/nav.php"; ?>
+<div id="wrap">
+	<?php include $_SERVER['DOCUMENT_ROOT']."/nav.php"; ?>
 
 	<div id="page" class="hfeed site">
 
 		<header id="masthead" class="site-header" role="banner">
-			<div class="header-main">
-				<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
-
-				<div class="search-toggle">
-					<a href="#search-container" class="screen-reader-text"><?php _e( 'Search', 'twentyfourteen' ); ?></a>
+			<div class="container">
+				<div class="row">
+					<div class="span12">
+						<h1 class="blogTitle"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+					</div>
 				</div>
-
 			</div>
+
+			<!-- <div class="search-toggle">
+				<a href="#search-container" class="screen-reader-text">
+					<?php /*_e( 'Search', 'twentyfourteen' );*/ ?>
+				</a>
+			</div> -->
 
 			<div id="search-container" class="search-box-wrapper hide">
 				<div class="search-box">
@@ -53,4 +58,5 @@
 			</div>
 		</header><!-- #masthead -->
 
-		<div id="main" class="site-main">
+		<!-- <div id="main" class="site-main"> -->
+		<div class="container blogContainer">
