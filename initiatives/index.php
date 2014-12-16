@@ -86,7 +86,7 @@
 							<p class='description'>The <span>Design Action Research with Government</span> (DARG) guidebook describes how government, community organizations and academic researchers can collaborate on developing new tools, processes and knowledge for innovating civic life in cities.</p>
 						</div>
 						<div class='span4'>
-							<p class='picture'><a href='#'><img src='/img/projects/habitat.jpg'></a></p>
+							<p class='picture'><a href='../civictech/habitat/'><img src='/img/projects/habitat.jpg'></a></p>
 							<p class='description'><span>Habit@</span> is designed to give local citizens many ways to both make their voice heard and access important information, and take action with others in their community. <span class='when'>[2013-2014]</span></p>
 						</div>	
 					</div>
