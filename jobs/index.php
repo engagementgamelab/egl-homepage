@@ -21,7 +21,7 @@
 							We are looking for a highly-motivated self-starter who will not only keep the lab functioning on a day-to-day basis, but help strategically rethink and redesign systems and protocols for a better lab. The ideal candidate will have experience in budget management, HR, event coordination, media production, and marketing. Moreover, we seek a person with a passion for civic engagement and media who will inject creativity, energy, and a commitment to teamwork into the lab and its projects. 
 						</p>
 						<p>
-							Please send an email to <span>steve [at] engagementgamelab.org</span> with a link to your portfolio and a brief description about your background and experience.
+							Please send an email to <span>steve [at] engagementgamelab.org</span> with a link to your resume and a brief description about your background and experience.
 						</p>
                         <br />
 					</div>
