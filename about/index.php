@@ -205,12 +205,12 @@
 							</div>
 						</div>
 						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#robBio' src='../img/people/bio/rob.jpg' data-real='rob' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#robBio'>Rob McKenzie</p>
-							<p class='trigger' data-toggle='collapse' data-target='#robBio'>Lab Coordinator</p>
-							<div id='robBio' class='collapse out'>
+							<p><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Becky Michelson</p>
+							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Project Manager</p>
+							<div id='beckyBio' class='collapse out'>
 								<p>
-									Rob helps the lab function on a daily basis and coordinates lab events, student outreach, and impromptu Nerf Gun battles. He graduated in 2013 from Emerson College with a degree in Writing for Film and Television and has previously worked for Antiques Roadshow and Good Universe Productions. His interests include theater, internet culture, and of course, whitewater kayaking.
+									Becky coordinates research projects on playful civics​, urban innovation, and​ media literacy. Becky graduated from UC Davis with a degree in Cultural Anthropology. She was a Jeremiah Fellow with Bend the Arc: A Jewish Partnership for Justice where she honed community organizing skills. Her research ​interests include participatory culture, transmedia storytelling, and ethics with technology.
 								</p>
 								<p>
 								</p>
@@ -240,6 +240,8 @@
 									<span class='studentName'>Sean Vaccaro</span>- Production Assistant
 									<br>
 									<span class='studentName'>Dan Barkus</span>- Handyman
+									<br>
+									<span class='studentName'>Erica Salling</span>- QA Tester
 								</p>
 							</div>
 						</div>
