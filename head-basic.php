@@ -1,9 +1,19 @@
 <!-- All pages include this in the head -->
-<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no'>
-<meta property='og:description' content='We are an applied research lab at Emerson College that designs and studies playful approaches for civic engagement.'>
-<meta property='og:image' content='http://engagementgamelab.org/img/other/EGL_logo.png'>
-<meta name='author' content='Engagement Game Lab'>
-<meta name='keywords' content='EGL, Engagement Game Lab, Boston, Massachusetts, games, data visualization, civic engagement, research, social, gamification, social games, games for change'>
+<meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' />
+
+<!-- Facebook -->
+<meta property='og:description' content='We are an applied research lab at Emerson College that designs and studies playful approaches for civic engagement.' />
+<meta property='og:image' content='http://engagementgamelab.org/img/other/EGL_logo.png' />
+<meta property='og:url' content='http://elab.emerson.edu/' />
+
+<!-- Twitter -->
+<meta name='twitter:site' content='@engagelab' />
+<meta name='twitter:creator' content='@engagelab' />
+<meta name='twitter:description' content='We are an applied research lab at Emerson College that designs and studies playful approaches for civic engagement.' />
+<meta name='twitter:image' content='http://engagementgamelab.org/img/other/EGL_logo.png' />
+
+<meta name='author' content='Engagement Lab'>
+<meta name='keywords' content='EL, Engagement Lab, Boston, Massachusetts, games, play, civics, data visualization, civic engagement, research, social, gamification, social games, games for change, media literacy, engagement games' />
 <meta name='distribution' content='web'>
 <!-- <link href='http://fonts.googleapis.com/css?family=Arvo:400,700|Average+Sans:400' rel='stylesheet' 
 type='text/css'> -->
