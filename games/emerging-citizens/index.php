@@ -11,7 +11,7 @@
 					<div class='row'>
 						<div class='span4'>
 							<div class='projectLogo'>
-								<img src='../../img/projects/logos/rh.png'>
+								<img src='../../img/projects/logos/emergingcitizenslogo.png'>
 							</div>
 						</div>
 						<div class='span8 projectDescription'>
@@ -69,6 +69,31 @@
 							</p>
 							<p>
 								The Emerging Citizens project weaves together a range of Common Core English Language Arts and Mathematics standards, Next Generation Science Standards’ Science and Engineering Practices, and standards from the National Council for Social Studies’ Framework for College, Career, and Civic Life. Students engaged in this work analyze writing and images, communicate and collaborate frequently, and critically evaluate established discourses and approaches. Throughout the curriculum, students identify and define problems, plan and carry out investigations, interpret data to identify patterns in their environments, and engage in deliberation, reasoned arguments, and media creation to drive local action.
+							</p>
+							<h2 class='funTitle'>Downloads</h2>
+							<p>
+								<a href='../../pdfs/emerging-citizens/Modules.zip'>All Modules</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/Intro_DesignDoc_Compressed.pdf'>Intro</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/SocialMediaandUsCompressed.pdf'>Social Media and Us</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/EmpathyModuleCompressed.pdf'>Empathy</a>
+							</p>	
+							<p>
+								<a href='../../pdfs/emerging-citizens/OutsideSourcesCompressed.pdf'>Outside Sources</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/MakingConnectionsCompressed.pdf'>Making Connections</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/PitchModuleCompressed.pdf'>Pitch</a>
+							</p>
+							<p>
+								<a href='../../pdfs/emerging-citizens/Implementation_Module_Compressed.pdf'>Implementation</a>
 							</p>
 						</div>
 					</div>
