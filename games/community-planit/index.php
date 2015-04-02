@@ -78,6 +78,48 @@
 						</div>
 					</div>
 				</div>
+				<div class='cpiCurriculum'>
+					<div class='row'>
+						<div class='span12'>
+							<h2 class='funTitle'>Community PlanIt Curriculum</h2>
+							<p>
+								This curriculum describes the process of creating and playing a Community PlanIt game, detailing the sequence of activities for our partner organizations.
+							</p>
+							<p>
+								Successful games have taken place at the school and district levels, city and regional levels, and in partnership with NGOs and national governments. The game cuts across demographic categories, and the most active players -- including some of the winners -- range in age from early adolescents to older adults. In many instances, middle and high school classes have worked with educators and planners to shape the game's goals, contribute content, recruit players, and play the game.
+							</p>
+							<p>
+								This curriculum is made up of an introduction and seven modules that walk the user through the affordances of the game, the local research process, game creation, outreach, game play, and post-game reflection and action. Each module contains general advice, relevant examples from past games, and concrete tasks that account for all the “deliverables” required.
+							</p>
+							<img class='inlineImageRightBig' src='../../img/projects/other/cpi5.png'>
+							<h2 class='funTitle'>Downloads</h2>
+							<p>
+								<a href='../../pdfs/cpi/0-Curriculum_Introduction_Compressed.pdf'>Curriculum Introduction Compressed</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/1-CPI_and_Your_Local_Planning_Process.pdf'>CPI and Your Local Planning Process</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/2-Exploring_Your_Local_Context.pdf'>Exploring Your Local Context</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/3-Designing_Your_Game.pdf'>Designing Your Game</a>
+							</p>	
+							<p>
+								<a href='../../pdfs/cpi/4-Creating_Your_Media.pdf'>Creating Your Media</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/5-Promoting_Your_Game.pdf'>Promoting Your Game</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/6-Playing_Your_Game.pdf'>Playing Your Game</a>
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/7-Your_Finale_Event.pdf'>Your Finale Event</a>
+							</p>
+						</div>
+					</div>
+				</div>
 				<div class='implementations'>
 					<div class='row'>
 						<div class='span12'>
