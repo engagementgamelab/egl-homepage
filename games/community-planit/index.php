@@ -94,7 +94,10 @@
 							<img class='inlineImageRightBig' src='../../img/projects/other/cpi5.png'>
 							<h2 class='funTitle'>Downloads</h2>
 							<p>
-								<a href='../../pdfs/cpi/0-Curriculum_Introduction_Compressed.pdf'>Curriculum Introduction Compressed</a>
+								<a href='../../pdfs/cpi/CPI_Curriculum.zip'>Download the whole curriculum</a>, or select individual modules:
+							</p>
+							<p>
+								<a href='../../pdfs/cpi/0-Curriculum_Introduction_Compressed.pdf'>Curriculum Introduction</a>
 							</p>
 							<p>
 								<a href='../../pdfs/cpi/1-CPI_and_Your_Local_Planning_Process.pdf'>CPI and Your Local Planning Process</a>

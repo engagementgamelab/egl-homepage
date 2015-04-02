@@ -72,7 +72,7 @@
 							</p>
 							<h2 class='funTitle'>Downloads</h2>
 							<p>
-								<a href='../../pdfs/emerging-citizens/Modules.zip'>All Modules</a>
+								<a href='../../pdfs/emerging-citizens/Modules.zip'>Download the whole curriculum</a>, or select individual modules:
 							</p>
 							<p>
 								<a href='../../pdfs/emerging-citizens/Intro_DesignDoc_Compressed.pdf'>Intro</a>
@@ -84,7 +84,7 @@
 								<a href='../../pdfs/emerging-citizens/EmpathyModuleCompressed.pdf'>Empathy</a>
 							</p>	
 							<p>
-								<a href='../../pdfs/emerging-citizens/OutsideSourcesCompressed.pdf'>Outside Sources</a>
+								<a href='../../pdfs/emerging-citizens/OutsideSources_compressed.pdf'>Outside Sources</a>
 							</p>
 							<p>
 								<a href='../../pdfs/emerging-citizens/MakingConnectionsCompressed.pdf'>Making Connections</a>
