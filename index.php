@@ -109,7 +109,7 @@
 
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> Paul Mihailidis lays out the importance of news literacy and reflects on the growing field. <a href='/blog'>[read the post]</a>
+								 <b>NEWS:</b> Catherine D’Ignazio on Robert Kosara's OpenVisConf talk about storytelling with data. <a href='/blog/2015/04/storytelling-with-data/'>[read the post]</a>
 							</span>
 							<br>
 							<?php include 'email-signup.php' ?>

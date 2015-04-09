@@ -57,6 +57,7 @@
 					<li class='dropdown'>
 						<a href='/about' class='dropdown-toggle disabled' data-toggle='dropdown'>ABOUT</a>
 						<ul class='dropdown-menu'>
+							<li><a data-target='#' href='/events'>EVENTS</a></li>
 							<li><a data-target='#' href='/about/#whatwedo'>WHAT WE DO</a></li>
 							<li><a data-target='#' href='/about/#people'>PEOPLE</a></li>
 							<li><a data-target='#' href='/about/#press'>PRESS</a></li>
