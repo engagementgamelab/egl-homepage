@@ -92,7 +92,7 @@
 							<p class='trigger' data-toggle='collapse' data-target='#russBio'>Fellow &amp; Assistant Professor</p>
 							<div id='russBio' class='collapse out'>
 								<p>
-									Previous to his arrival at Emerson, Russell Newman served as the research director for the national nonprofit advocacy group Free Press. There, he focused on media and telecommunications policy, tracking current issues, writing issue briefs, creating Web content, and speaking publicly regarding emerging debates. With Robert McChesney and Ben Scott, he is the co-editor of The Future of Media: Resistance and Reform in the 21st Century (Seven Stories Press, 2005), named as one of Working Assets' Recommended Reads for July 2005. He spent several years as a freelance multimedia designer and as a production designer for a number of independent films. He was active in noncommercial radio in Boston for nearly a decade. Russell was a Waterston Fellow at Suffolk University's Sawyer School of Management, where he earned a master's degree focusing on the political economy of mass communication, nonprofit management and documentary production; he earned his bachelor's degree from the Massachusetts Institute of Technology. Russell is interested in exploring the intersections of the political economy of media, the epistemological foundations of media policymaking and governance, and ongoing struggles against existing structures of power.								
+									Previous to his arrival at Emerson, Russell Newman served as the research director for the national nonprofit advocacy group Free Press. There, he focused on media and telecommunications policy, tracking current issues, writing issue briefs, creating Web content, and speaking publicly regarding emerging debates. With Robert McChesney and Ben Scott, he is the co-editor of The Future of Media: Resistance and Reform in the 21st Century (Seven Stories Press, 2005), named as one of Working Assets' Recommended Reads for July 2005. He spent several years as a freelance multimedia designer and as a promamduction designer for a number of independent films. He was active in noncommercial radio in Boston for nearly a decade. Russell was a Waterston Fellow at Suffolk University's Sawyer School of Management, where he earned a master's degree focusing on the political economy of mass communication, nonprofit management and documentary production; he earned his bachelor's degree from the Massachusetts Institute of Technology. Russell is interested in exploring the intersections of the political economy of media, the epistemological foundations of media policymaking and governance, and ongoing struggles against existing structures of power.								
 								</p>	
 							</div>
 						</div>
@@ -145,7 +145,35 @@
 								</p>
 							</div>
 						</div>
+						
 						<div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#aidanBio'  src='../img/people/bio/aidan.jpg' data-real='aidan' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Aidan O'Donohue</p>
+							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Art Director</p>
+							<div id='aidanBio' class='collapse out'>
+								<p>
+									Aidan graduated from the Rhode Island School of Design with a degree in painting, and has also studied design and architecture. In addition to her work at the lab, she works as an illustrator and teaches art to children with special needs. She splits her time between Boston and NYC and still loves to draw.
+								</p>
+								<p>
+								</p>
+							</div>
+						</div>
+                        <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#christinaBio' src='../img/people/bio/christina.jpg' data-real='christina' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Christina Wilson</p>
+							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Project Manager</p>
+							<div id='christinaBio' class='collapse out'>
+								<p>
+									Christina's abiding interests in open access to a participatory democracy, ethics, and the role of technology in shaping human experiences drew her to the Engagement Game Lab. With degrees from the University of Chicago (A.B., English Language &amp; Literature) and University of Southern California (M.A., English: Film, Literature &amp; Culture), she brings a love of language, philosophy and the visual arts to bear on her work at the lab, thinking through and spreading the word about the possibilities opened up by meaningful play in public deliberation, broaching reasonable solutions to complex problems. Email at christina [at] engagmentgamelab.org
+								</p>
+								<p>
+								</p>
+							</div>
+						</div>
+					</div>
+                    
+					<div class='row'>
+                        <div class='span4 person'>
 							<p><img data-toggle='collapse' data-target='#samBio'  src='../img/people/bio/sam.jpg' data-real='sam' class='headshot' style='background: url(../img/people/bio/real_sam.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Sam Liberty</p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Lead Game Writer</p>
@@ -163,21 +191,70 @@
 								</p>
 							</div>
 						</div>
-						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#aidanBio'  src='../img/people/bio/aidan.jpg' data-real='aidan' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Aidan O'Donohue</p>
-							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Art Director</p>
-							<div id='aidanBio' class='collapse out'>
+                        <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Becky Michelson</p>
+							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Project Manager</p>
+							<div id='beckyBio' class='collapse out'>
 								<p>
-									Aidan graduated from the Rhode Island School of Design with a degree in painting, and has also studied design and architecture. In addition to her work at the lab, she works as an illustrator and teaches art to children with special needs. She splits her time between Boston and NYC and still loves to draw.
+									Becky coordinates research projects on playful civics​, urban innovation, and​ media literacy. Becky graduated from UC Davis with a degree in Cultural Anthropology. She was a Jeremiah Fellow with Bend the Arc: A Jewish Partnership for Justice where she honed community organizing skills. Her research ​interests include participatory culture, transmedia storytelling, and ethics with technology.
 								</p>
 								<p>
 								</p>
 							</div>
 						</div>
-					</div>
-					<div class='row'>
-						<div class='span4 person'>
+                        <div class='span4 person'>
+                           <p><img data-toggle='collapse' data-target='#johnnyBio' src='../img/people/bio/real_johnny.jpg' data-real='johnny' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Johnny Richardson</p>
+							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Lead Developer</p>
+							<div id='johnnyBio' class='collapse out'>
+								<p>
+									 Johnny is a veteran games, UI, and web engineer and consultant based in Boston, MA. Having worked on many sides and in every stage of the development pipeline, he specializes in creating world-class software and games, with an emphasis on tightly-controlled standards and obsessive code quality. Through his work he strives to empower colleagues and fellow stakeholders in every possible way, no matter what it takes. Johnny believes that fluid and transparent teamwork is vital to a final product of the highest quality. As an alumni of Emerson, Johnny is excited to be bringing his skills and experience back to campus and the Engagement Lab. On the side, he is also Director of Industry Outreach for The AbleGamers Foundation, and has given many talks and workshops on improving accessibility in games.
+								</p>
+							</div> 
+                        </div>
+                    </div>
+                    
+                    <div class='row'>
+                     <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Jay Vachon</p>
+							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
+							<div id='jayBio' class='collapse out'>
+								<p>
+									 Jay enjoys making things, especially games and music. At the lab, he has lead the development of Risk Horizon and the mobile version of @Stake. He has also collaborated on NewsPix, a browser extension developed at the MIT Center For Civic Media. Jay is one third of the Astro Assembly design studio.
+								</p>
+                                <p>
+									<a target='_blank' href='http://twitter.com/appleslerp' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+	      							<a target='_blank' href='https://github.com/jayvachon' target='_blank'><i class='icon-github icon-large' rel='tooltip' data-title='gitHub'></i></a>
+	      							<a target='_blank' href='http://astroassembly.com' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
+								</p>
+							</div>
+						</div>
+                         <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/real_sean.jpg' data-real='sean' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Sean Van Deuren</p>
+							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Lab Coordinator</p>
+							<div id='seanBio' class='collapse out'>
+								<p>
+									 Sean is responsible for maintaining productive and vibrant relationships, workflows, and communications for the Engagement Lab community. He earned his BFA in Writing, Literature & Publishing from Emerson College. His short story chapbook, I Am Happy You Are Here, was published by Wilde Press in 2011. He was raised in Maryland and currently lives in Somerville.
+								</p>
+							</div>
+						</div>
+                        <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/real_maya.jpg' data-real='maya' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Maya Wagoner</p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Community Technology Organizer</p>
+							<div id='mayaBio' class='collapse out'>
+								<p>
+									 Maya is a community technology organizer and user experience designer interested in designing digital services with people's political, historical, and experiential knowledge in mind, and in empowering people to create digital services and networks for themselves. She graduated from UC Santa Cruz with a degree in American Studies, and completed a User Experience Design Immersive program at General Assembly. While in San Francisco, she organized the Code for San Francisco Brigade, a local civic technology volunteer group. She is currently working on strengthening the networks in civic media scholarship and practice in the Boston area through a civic media conference, consortium, and website. 
+								</p>
+							</div>
+						</div>
+                    </div>
+                    
+                    <div class='row'>
+                        <div class='span4 person'>
 							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/jedd.jpg' data-real='jedd' class='headshot'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Jedd Cohen</p>
 							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Curriculum Developer</p>
@@ -192,31 +269,28 @@
 								</p>
 							</div>
 						</div>
-						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#christinaBio' src='../img/people/bio/christina.jpg' data-real='christina' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Christina Wilson</p>
-							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Project Manager</p>
-							<div id='christinaBio' class='collapse out'>
+                         <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/real_jordan.jpg' data-real='jordan' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jordanBio'>Jordan Pailthorpe</p>
+							<p class='trigger' data-toggle='collapse' data-target='#jBio'>Producer</p>
+							<div id='jordanBio' class='collapse out'>
 								<p>
-									Christina's abiding interests in open access to a participatory democracy, ethics, and the role of technology in shaping human experiences drew her to the Engagement Game Lab. With degrees from the University of Chicago (A.B., English Language &amp; Literature) and University of Southern California (M.A., English: Film, Literature &amp; Culture), she brings a love of language, philosophy and the visual arts to bear on her work at the lab, thinking through and spreading the word about the possibilities opened up by meaningful play in public deliberation, broaching reasonable solutions to complex problems. Email at christina [at] engagmentgamelab.org
-								</p>
-								<p>
+									 Jordan Pailthorpe is a Producer and also organizes the game discussion group where Emerson students come together to play and discuss alternative indie games. He also teaches game studies and design at Emerson College and holds an MFA in creative writing. In his free time, Jordan rides adventure motorcycles, writes poetry, makes weird art games, and plays with his two cats Virginia and Goku.
 								</p>
 							</div>
 						</div>
-						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Becky Michelson</p>
-							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Project Manager</p>
-							<div id='beckyBio' class='collapse out'>
+                        <div class='span4 person'>
+							<p><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/real_roma2.jpg' data-real='sean' class='headshot'></p>
+							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Roma  Dash</p>
+							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Curriculum Developer</p>
+							<div id='romaBio' class='collapse out'>
 								<p>
-									Becky coordinates research projects on playful civics​, urban innovation, and​ media literacy. Becky graduated from UC Davis with a degree in Cultural Anthropology. She was a Jeremiah Fellow with Bend the Arc: A Jewish Partnership for Justice where she honed community organizing skills. Her research ​interests include participatory culture, transmedia storytelling, and ethics with technology.
-								</p>
-								<p>
+									 Roma is a Research Assistant at Engagement Lab and an Assistant Editor of Journal of Media Literacy Education (JMLE). She holds an MBA in finance, and is currently working towards a master’s degree in publishing & writing from Emerson College. Her interests include academic publishing, copyediting, and  research in LGBT+ issues, civic media, and immigration literature.
 								</p>
 							</div>
 						</div>
-					</div>
+                    </div>
+						
 					<div class='row'>
 						<div class='span4 person'>
 							<p><img data-toggle='collapse' data-target='#studentBio' src='../img/people/bio/student.jpg' data-real='student' class='headshot'></p>
@@ -230,8 +304,6 @@
 									<br>
 									<span class='studentName'>Brandon Sichling</span>- Research (games and identity)
 									<br>
-									<span class='studentName'>Jordan Pailthorpe</span>- Game writing
-									<br>
 									<br>
 									<span class='studentType'>Undergraduate Students</span>
 									<br>
@@ -242,6 +314,11 @@
 									<span class='studentName'>Dan Barkus</span>- Handyman
 									<br>
 									<span class='studentName'>Erica Salling</span>- QA Tester
+                                    <br>
+                                    <span class='studentName'>Sophie Calhoun</span>- Graphic Design
+                                    <br>
+                                    <span class='studentName'>Matt Benson</span>- Illustrator
+                                    <br>
 								</p>
 							</div>
 						</div>
