@@ -53,7 +53,7 @@
 									<a href='http://twitter.com/pmihailidis' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
 									<a href='http://paulmihailidis.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
 								</p>
-								</div>
+							</div>
 						</div>
 						<div class='span4 person'>
 							<p><img data-toggle='collapse' data-target='#cathBio' src='../img/people/bio/cath.jpg' data-real='cath' class='headshot'></p>
@@ -217,7 +217,7 @@
                     
                     <div class='row'>
                      <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
+		                    <p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Jay Vachon</p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
 							<div id='jayBio' class='collapse out'>
@@ -226,13 +226,13 @@
 								</p>
                                 <p>
 									<a target='_blank' href='http://twitter.com/appleslerp' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-	      							<a target='_blank' href='https://github.com/jayvachon' target='_blank'><i class='icon-github icon-large' rel='tooltip' data-title='gitHub'></i></a>
-	      							<a target='_blank' href='http://astroassembly.com' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
+	      							<a target='_blank' href='https://github.com/jayvachon' target='_blank'><i class='icon-github icon-large' rel='tooltip' data-title='github'></i></a>
+	      							<a target='_blank' href='http://astroassembly.com' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
 								</p>
 							</div>
 						</div>
                          <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></p>
+							<p><img data-toggle='collapse' data-target='#seanBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Sean Van Deuren</p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Lab Coordinator</p>
 							<div id='seanBio' class='collapse out'>
