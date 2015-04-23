@@ -204,7 +204,7 @@
 							</div>
 						</div>
                         <div class='span4 person'>
-                           <p><img data-toggle='collapse' data-target='#johnnyBio' src='../img/people/bio/real_johnny.jpg' data-real='johnny' class='headshot'></p>
+                           <p><img data-toggle='collapse' data-target='#johnnyBio' src='../img/people/bio/johnny.jpg' data-real='johnny' class='headshot' style='background: url(../img/people/bio/real_johnny.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Johnny Richardson</p>
 							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Lead Developer</p>
 							<div id='johnnyBio' class='collapse out'>
@@ -217,7 +217,7 @@
                     
                     <div class='row'>
                      <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot'></p>
+							<p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Jay Vachon</p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
 							<div id='jayBio' class='collapse out'>
@@ -232,7 +232,7 @@
 							</div>
 						</div>
                          <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/real_sean.jpg' data-real='sean' class='headshot'></p>
+							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Sean Van Deuren</p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Lab Coordinator</p>
 							<div id='seanBio' class='collapse out'>
@@ -242,12 +242,17 @@
 							</div>
 						</div>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/real_maya.jpg' data-real='maya' class='headshot'></p>
+							<p><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/maya.jpg' data-real='maya' class='headshot' style='background: url(../img/people/bio/real_maya.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Maya Wagoner</p>
-							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Community Technology Organizer</p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Curriculum Developer</p>
 							<div id='mayaBio' class='collapse out'>
 								<p>
-									 Maya is a community technology organizer and user experience designer interested in designing digital services with people's political, historical, and experiential knowledge in mind, and in empowering people to create digital services and networks for themselves. She graduated from UC Santa Cruz with a degree in American Studies, and completed a User Experience Design Immersive program at General Assembly. While in San Francisco, she organized the Code for San Francisco Brigade, a local civic technology volunteer group. She is currently working on strengthening the networks in civic media scholarship and practice in the Boston area through a civic media conference, consortium, and website. 
+									 Maya is a community technology organizer and user experience designer interested in designing digital services with people's political, historical, and experiential knowledge in mind, and in empowering people to create digital services and networks for themselves. She graduated from UC Santa Cruz with a degree in American Studies, and completed a User Experience Design Immersive program at General Assembly. While in San Francisco, she organized the Code for San Francisco Brigade, a local civic technology volunteer group. She is currently working on strengthening the networks in civic media scholarship and practice in the Boston area through a civic media conference, consortium, and website.
+								</p>
+								<p>
+									<a target='_blank' href='http://twitter.com/JeddCohen' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
+	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
 								</p>
 							</div>
 						</div>
@@ -270,7 +275,7 @@
 							</div>
 						</div>
                          <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/real_jordan.jpg' data-real='jordan' class='headshot'></p>
+							<p><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/jordan.jpg' data-real='jordan' class='headshot' style='background: url(../img/people/bio/real_jordan.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jordanBio'>Jordan Pailthorpe</p>
 							<p class='trigger' data-toggle='collapse' data-target='#jBio'>Producer</p>
 							<div id='jordanBio' class='collapse out'>
@@ -280,7 +285,7 @@
 							</div>
 						</div>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/real_roma2.jpg' data-real='sean' class='headshot'></p>
+							<p><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/roma.jpg' data-real='roma' class='headshot' style='background: url(../img/people/bio/real_roma.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Roma  Dash</p>
 							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Curriculum Developer</p>
 							<div id='romaBio' class='collapse out'>

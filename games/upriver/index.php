@@ -91,6 +91,13 @@
 						</div>
 					</div>
 				</div>
+                <div class='row'>
+                    <div class="span12" id="cc">
+                        <p>
+                       <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Up River</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://engagementgamelab.org/games/upriver/" property="cc:attributionName" rel="cc:attributionURL">Engagement Lab</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+                        </p>
+                    </div>
+                </div>
 			</div>
 			<div id='push'></div>
    		</div>
