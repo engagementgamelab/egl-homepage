@@ -9,7 +9,7 @@
 	//_preloadImages(0);
 	_loaded = true;
 	//hover events for swapping pics
-	$('.headshot').on('mouseenter', function() {
+	$('.cartoon').on('mouseenter', function() {
 		if(_loaded) {
 			var src = '../../img/people/bio/real_' + $(this).attr('data-real') + '.jpg';
 			$(this).attr('src', src);	
@@ -17,7 +17,7 @@
 		
 	});
 
-	$('.headshot').on('mouseout', function() {
+	$('.cartoon').on('mouseout', function() {
 		if(_loaded) {
 			var src = '../../img/people/bio/' + $(this).attr('data-real') + '.jpg';
 			$(this).attr('src', src);

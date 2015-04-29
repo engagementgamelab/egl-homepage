@@ -9337,6 +9337,7 @@ a.badge:focus {
   text-align: center;
   font-size: 1em;
 }
+
 #people .person p:nth-child(2) {
   font-weight: 700;
   color: #555555;
@@ -9369,6 +9370,15 @@ a.badge:focus {
   color: #40b4bc;
   font-weight: 700;
 }
+
+
+.headshot:hover img {
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale"); /* Firefox 3.5+ */
+  filter: gray; /* IE6-9 */
+  -webkit-filter: grayscale(100%); /* Chrome 19+ & Safari 6+ */
+}
+
+
 #press h2 {
   font-size: 3em;
   text-align: center;
@@ -9880,24 +9890,6 @@ a:hover {
 }
 .projectPage .theMedia iframe {
   max-width: 640px;
-}
-.projectPage #cc {
-    margin-left: ;
-  font-family: 'proxima-nova', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: .7em;
-  line-height: 1.4;
-  padding: 0px 10px;
-  color: #339096;
-  background-color: #ffffff;
-}
-.projectPage #cc a {
-  color: #339096;
-  text-decoration: bold;
-}
-.projectPage #cc a:hover,
-.projectPage #cc a:focus {
-  color: #339096;
-  text-decoration: underline;
 }
 .whatIsIt {
   padding: 10px;
