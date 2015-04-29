@@ -109,7 +109,7 @@
 
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> Catherine D’Ignazio on Robert Kosara's OpenVisConf talk about storytelling with data. <a href='/blog/2015/04/storytelling-with-data/'>[read the post]</a>
+								 <b>NEWS:</b> Join us for the first #CivicMediaChat on Play and Creativity Monday, April 27th at 4pm EST <a href='http://engagementgamelab.org/blog/2015/04/join-us-for-the-first-civicmediachat-on-play-and-creativity-monday-the-27th-at-4pm-est/'>[learn more]</a>
 							</span>
 							<br>
 							<?php include 'email-signup.php' ?>

@@ -217,7 +217,7 @@
                     
                     <div class='row'>
                      <div class='span4 person'>
-		                    <p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/real_jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
+		                    <p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Jay Vachon</p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
 							<div id='jayBio' class='collapse out'>
