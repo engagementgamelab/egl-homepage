@@ -28,8 +28,8 @@
 					</div>
 					<div class='row'>
 						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#ericBio' src='../img/people/bio/eric.jpg' data-real='eric' class='headshot cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#ericBio'>Eric Gordon</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#ericBio' src='../img/people/bio/eric.jpg' data-real='eric' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#ericBio'><span class="boldnametitle">Eric Gordon</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#ericBio'>Director &amp; Associate Professor</p>
 							<div id='ericBio' class='collapse out'>
 								<p>
@@ -42,8 +42,8 @@
 								</div>
 						</div>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#paulBio' src='../img/people/bio/paul.jpg' data-real='paul' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#paulBio'>Paul Mihailidis</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#paulBio' src='../img/people/bio/paul.jpg' data-real='paul' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#paulBio'><span class="boldnametitle">Paul Mihailidis</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#paulBio'>Associate Director &amp; Assistant Professor</p>
 							<div id='paulBio' class='collapse out'>
 								<p>
@@ -56,8 +56,8 @@
 							</div>
 						</div>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#cathBio' src='../img/people/bio/cath.jpg' data-real='cath' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#cathBio'>Catherine D'Ignazio</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#cathBio' src='../img/people/bio/cath.jpg' data-real='cath' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#cathBio'><span class="boldnametitle">Catherine D'Ignazio</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#cathBio'>Fellow &amp; Assistant Professor</p>
 							<div id='cathBio' class='collapse out'>
 								<p>
@@ -74,8 +74,8 @@
 					</div>
 					<div class='row'>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#mirandaBio' src='../img/people/bio/miranda.jpg' data-real='miranda' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'>Miranda Banks</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mirandaBio' src='../img/people/bio/miranda.jpg' data-real='miranda' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'><span class="boldnametitle">Miranda Banks</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'>Researcher &amp; Assistant Professor</p>
 							<div id='mirandaBio' class='collapse out'>
 								<p>
@@ -87,8 +87,8 @@
 							</div>
 						</div>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#russBio' src='../img/people/bio/russ.jpg' data-real='russ' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#russBio'>Russell Newman</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#russBio' src='../img/people/bio/russ.jpg' data-real='russ' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#russBio'><span class="boldnametitle">Russell Newman</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#russBio'>Fellow &amp; Assistant Professor</p>
 							<div id='russBio' class='collapse out'>
 								<p>
@@ -97,8 +97,8 @@
 							</div>
 						</div>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#vinceBio'  src='../img/people/bio/vince.jpg' data-real='vince' class='headshot' style='background: url(../img/people/bio/real_vince.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'>Vincent Raynauld</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#vinceBio'  src='../img/people/bio/vince.jpg' data-real='vince' class='headshot' style='background: url(../img/people/bio/real_vince.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'><span class="boldnametitle">Vincent Raynauld</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'>Fellow &amp; Assistant Professor</p>
 							<div id='vinceBio' class='collapse out'>
 								<p>
@@ -113,8 +113,8 @@
 					</div>	
 					<div class='row'>
 						<div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#sarahBio'  src='../img/people/bio/sarah.jpg' data-real='sarah' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'>Sarah Zaidan</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#sarahBio'  src='../img/people/bio/sarah.jpg' data-real='sarah' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'><span class="boldnametitle">Sarah Zaidan</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'>Fellow &amp; Assistant Professor</p>
 							<div id='sarahBio' class='collapse out'>
 								<p>
@@ -133,8 +133,8 @@
 					</div>
 					<div class='row'>
 						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#stephenBio' src='../img/people/bio/stephen.jpg' data-real='stephen' class='headshot cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'>Stephen Walter</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#stephenBio' src='../img/people/bio/stephen.jpg' data-real='stephen' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'><span class="boldnametitle">Stephen Walter</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'>Managing Director</p>
 							<div id='stephenBio' class='collapse out'>
 								<p>
@@ -147,8 +147,8 @@
 						</div>
 						
 						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#aidanBio'  src='../img/people/bio/aidan.jpg' data-real='aidan' class='headshot cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Aidan O'Donohue</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#aidanBio'  src='../img/people/bio/aidan.jpg' data-real='aidan' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'><span class="boldnametitle">Aidan O'Donohue</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'>Art Director</p>
 							<div id='aidanBio' class='collapse out'>
 								<p>
@@ -159,8 +159,8 @@
 							</div>
 						</div>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#christinaBio' src='../img/people/bio/christina.jpg' data-real='christina' class='headshot cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Christina Wilson</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#christinaBio' src='../img/people/bio/christina.jpg' data-real='christina' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'><span class="boldnametitle">Christina Wilson</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Project Manager</p>
 							<div id='christinaBio' class='collapse out'>
 								<p>
@@ -174,8 +174,8 @@
                     
 					<div class='row'>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#samBio'  src='../img/people/bio/sam.jpg' data-real='sam' class='headshot cartoon' style='background: url(../img/people/bio/real_sam.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Sam Liberty</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#samBio'  src='../img/people/bio/sam.jpg' data-real='sam' class='headshot cartoon' style='background: url(../img/people/bio/real_sam.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#samBio'><span class="boldnametitle">Sam Liberty</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Lead Game Writer</p>
 							<div id='samBio' class='collapse out'>
 								<p>
@@ -192,8 +192,8 @@
 							</div>
 						</div>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Becky Michelson</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'><span class="boldnametitle">Becky Michelson</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'>Project Manager</p>
 							<div id='beckyBio' class='collapse out'>
 								<p>
@@ -204,8 +204,8 @@
 							</div>
 						</div>
                         <div class='span4 person peoplebw'>
-                           <p><img data-toggle='collapse' data-target='#johnnyBio' src='../img/people/bio/johnny.jpg' data-real='johnny' class='headshot' style='background: url(../img/people/bio/real_johnny.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Johnny Richardson</p>
+                           <p><div class='bwcontainer'><img data-toggle='collapse' data-target='#johnnyBio' src='../img/people/bio/johnny.jpg' data-real='johnny' class='headshot' style='background: url(../img/people/bio/real_johnny.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'><span class="boldnametitle">Johnny Richardson</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#johnnyBio'>Lead Developer</p>
 							<div id='johnnyBio' class='collapse out'>
 								<p>
@@ -217,8 +217,8 @@
                     
                     <div class='row'>
                      <div class='span4 person peoplebw'>
-		                    <p><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Jay Vachon</p>
+		                    <p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jayBio'><span class="boldnametitle">Jay Vachon</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
 							<div id='jayBio' class='collapse out'>
 								<p>
@@ -232,8 +232,8 @@
 							</div>
 						</div>
                          <div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#seanBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Sean Van Deuren</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#seanBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#seanBio'><span class="boldnametitle">Sean Van Deuren</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'>Lab Manager</p>
 							<div id='seanBio' class='collapse out'>
 								<p>
@@ -242,8 +242,8 @@
 							</div>
 						</div>
                         <div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/maya.jpg' data-real='maya' class='headshot' style='background: url(../img/people/bio/real_maya.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Maya Wagoner</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/maya.jpg' data-real='maya' class='headshot' style='background: url(../img/people/bio/real_maya.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'><span class="boldnametitle">Maya Wagoner</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Curriculum Developer</p>
 							<div id='mayaBio' class='collapse out'>
 								<p>
@@ -260,8 +260,8 @@
                     
                     <div class='row'>
                         <div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/jedd.jpg' data-real='jedd' class='headshot' id='cartoon'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Jedd Cohen</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/jedd.jpg' data-real='jedd' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'><span class="boldnametitle">Jedd Cohen</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Curriculum Developer</p>
 							<div id='jeddBio' class='collapse out'>
 								<p>
@@ -275,8 +275,8 @@
 							</div>
 						</div>
                          <div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/jordan.jpg' data-real='jordan' class='headshot' style='background: url(../img/people/bio/real_jordan.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#jordanBio'>Jordan Pailthorpe</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/jordan.jpg' data-real='jordan' class='headshot' style='background: url(../img/people/bio/real_jordan.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jordanBio'><span class="boldnametitle">Jordan Pailthorpe</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jBio'>Producer</p>
 							<div id='jordanBio' class='collapse out'>
 								<p>
@@ -285,8 +285,8 @@
 							</div>
 						</div>
                         <div class='span4 person peoplebw'>
-							<p><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/roma.jpg' data-real='roma' class='headshot' style='background: url(../img/people/bio/real_roma.jpg);'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Roma  Dash</p>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/roma.jpg' data-real='roma' class='headshot' style='background: url(../img/people/bio/real_roma.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#romaBio'><span class="boldnametitle">Roma  Dash</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Curriculum Developer</p>
 							<div id='romaBio' class='collapse out'>
 								<p>
@@ -297,9 +297,9 @@
                     </div>
 						
 					<div class='row'>
-						<div class='span4 person'>
-							<p><img data-toggle='collapse' data-target='#studentBio' src='../img/people/bio/student.jpg' data-real='student' class='headshot'></p>
-							<p class='trigger' data-toggle='collapse' data-target='#studentBio'>Students</p>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#studentBio' src='../img/people/bio/student.jpg' data-real='student' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#studentBio'><span class="boldnametitle">Students</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#studentBio'>Lab Assistants</p>
 							<div id='studentBio' class='collapse out'>
 								<p>
