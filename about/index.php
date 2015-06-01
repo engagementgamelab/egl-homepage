@@ -286,7 +286,7 @@
 						</div>
                         <div class='span4 person peoplebw'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/roma.jpg' data-real='roma' class='headshot' style='background: url(../img/people/bio/real_roma.jpg);'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#romaBio'><span class="boldnametitle">Roma  Dash</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#romaBio'><span class="boldnametitle">Roma Dash</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Curriculum Developer</p>
 							<div id='romaBio' class='collapse out'>
 								<p>
@@ -294,9 +294,18 @@
 								</p>
 							</div>
 						</div>
-                    </div>
-						
+                    </div>	
 					<div class='row'>
+						<div class='span4 person peoplebw'>
+								<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#wadeBio' src='../img/people/bio/wade.jpg' data-real='wade' class='headshot' style='background: url(../img/people/bio/real_wade.jpg);'></div></p>
+								<p class='trigger' data-toggle='collapse' data-target='#wadeBio'><span class="boldnametitle">Wade Kimbrough</span></p>
+								<p class='trigger' data-toggle='collapse' data-target='#wBio'>Producer</p>
+								<div id='wadeBio' class='collapse out'>
+									<p>
+										 Wade Kimbrough is a game designer, researcher, and project manager. His primary focus is using games in a humanitarian and development context to help alleviate the impacts of climate change. He has designed and developed games for the Red Cross / Red Crescent Climate Centre, UNICEF, PLAN International, and the World Bank. Wade also teaches 3D computer game design at Emerson.
+									</p>
+								</div>
+						</div>
 						<div class='span4 person peoplebw'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#studentBio' src='../img/people/bio/student.jpg' data-real='student' class='headshot'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#studentBio'><span class="boldnametitle">Students</span></p>
@@ -304,8 +313,6 @@
 							<div id='studentBio' class='collapse out'>
 								<p>
 									<span class='studentType'>Graduate Students</span>
-									<br>
-									<span class='studentName'>Wade Kimbrough</span>- Research (games and climate change)
 									<br>
 									<span class='studentName'>Brandon Sichling</span>- Research (games and identity)
 									<br>
