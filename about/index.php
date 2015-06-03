@@ -299,7 +299,7 @@
 						<div class='span4 person peoplebw'>
 								<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#wadeBio' src='../img/people/bio/wade.jpg' data-real='wade' class='headshot' style='background: url(../img/people/bio/real_wade.jpg);'></div></p>
 								<p class='trigger' data-toggle='collapse' data-target='#wadeBio'><span class="boldnametitle">Wade Kimbrough</span></p>
-								<p class='trigger' data-toggle='collapse' data-target='#wBio'>Producer</p>
+								<p class='trigger' data-toggle='collapse' data-target='#wBio'>Project Manager</p>
 								<div id='wadeBio' class='collapse out'>
 									<p>
 										 Wade Kimbrough is a game designer, researcher, and project manager. His primary focus is using games in a humanitarian and development context to help alleviate the impacts of climate change. He has designed and developed games for the Red Cross / Red Crescent Climate Centre, UNICEF, PLAN International, and the World Bank. Wade also teaches 3D computer game design at Emerson.
