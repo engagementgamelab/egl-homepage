@@ -176,7 +176,7 @@
                         <div class='span4 person'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#samBio'  src='../img/people/bio/sam.jpg' data-real='sam' class='headshot cartoon' style='background: url(../img/people/bio/real_sam.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'><span class="boldnametitle">Sam Liberty</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Lead Game Writer</p>
+							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Chief Games Officer</p>
 							<div id='samBio' class='collapse out'>
 								<p>
 									Sam is lead writer for EGL's projects, including Community PlanIt and Civic Seed, and one half of the 
