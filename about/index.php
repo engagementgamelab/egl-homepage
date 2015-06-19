@@ -287,7 +287,7 @@
                         <div class='span4 person peoplebw'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#romaBio' src='../img/people/bio/roma.jpg' data-real='roma' class='headshot' style='background: url(../img/people/bio/real_roma.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#romaBio'><span class="boldnametitle">Roma Dash</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Curriculum Developer</p>
+							<p class='trigger' data-toggle='collapse' data-target='#romaBio'>Editorial Assistant</p>
 							<div id='romaBio' class='collapse out'>
 								<p>
 									 Roma is a Research Assistant at Engagement Lab and an Assistant Editor of Journal of Media Literacy Education (JMLE). She holds an MBA in finance, and is currently working towards a master’s degree in publishing & writing from Emerson College. Her interests include academic publishing, copyediting, and  research in LGBT+ issues, civic media, and immigration literature.
