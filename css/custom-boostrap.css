@@ -9275,6 +9275,15 @@ a.badge:focus {
   font-weight: 700;
   color: #b1e1e4;
 }
+
+.social a{
+  color: white;
+}
+
+.social a:hover{
+  color: #B1E1E4;
+}
+
 #whatwedo,
 #researchTop {
   width: 100%;
@@ -9337,10 +9346,12 @@ a.badge:focus {
   text-align: center;
   font-size: 1em;
 }
-#people .person p:nth-child(2) {
+
+.boldnametitle {
   font-weight: 700;
   color: #555555;
 }
+
 #people .person .collapse p {
   text-align: left;
   color: #999999;
@@ -9355,7 +9366,6 @@ a.badge:focus {
   -moz-background-clip: padding;
   border-radius: 96px;
   background-clip: padding-box;
-  box-shadow: 0px 0px 0px 4px #d7f0f1;
   cursor: pointer;
 }
 #people .trigger {
@@ -9369,6 +9379,29 @@ a.badge:focus {
   color: #40b4bc;
   font-weight: 700;
 }
+
+.bwcontainer{
+  -webkit-border-radius: 96px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 96px;
+  -moz-background-clip: padding;
+   width:192px;
+   height:192px;
+   border-radius: 96px;
+   border: 4px solid #d7f0f1;
+   overflow:hidden;
+   margin: 0 auto;
+}
+
+.peoplebw img:hover {
+  -webkit-filter: grayscale(1);
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: url(#greyscale);
+  filter: gray;
+  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+}
+
 #press h2 {
   font-size: 3em;
   text-align: center;
@@ -9881,8 +9914,9 @@ a:hover {
 .projectPage .theMedia iframe {
   max-width: 640px;
 }
+
 .projectPage #cc {
-    margin-left: ;
+  margin-left: 20px;
   font-family: 'proxima-nova', serif, 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: .7em;
   line-height: 1.4;
@@ -9899,6 +9933,7 @@ a:hover {
   color: #339096;
   text-decoration: underline;
 }
+
 .whatIsIt {
   padding: 10px;
   padding-top: 40px;

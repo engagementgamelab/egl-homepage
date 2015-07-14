@@ -24,6 +24,8 @@
 				            <li><a data-target='#' href='/games/bodaboda'>BODA-BODA</a></li>
 							<li><a data-target='#' href='/games/hub2'>HUB2</a></li>
 							<li><a data-target='#' href='/games/emerging-citizens'>EMERGING CITIZENS</a></li>
+							<li><a data-target='#' href='/games/girlsmakegames'>GIRLS MAKE GAMES</a></li>
+
 							<!-- <li><a data-target='#' href='/games/student-projects'>STUDENT PROJECTS</a></li> -->
 						</ul>
 					</li>
