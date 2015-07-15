@@ -109,7 +109,7 @@
 
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> Join us for the first #CivicMediaChat on Play and Creativity Monday, April 27th at 4pm EST <a href='http://engagementgamelab.org/blog/2015/04/join-us-for-the-first-civicmediachat-on-play-and-creativity-monday-the-27th-at-4pm-est/'>[learn more]</a>
+								 <b>NEWS:</b> Latest From The Lab (July 2015): Civic Media: Metrics and Methods, New Managing Director, and Salzburg Academy 2015 (<a href='http://buff.ly/1ObeuoB' target='_blank'>read here</a>)
 							</span>
 							<br>
 							<?php include 'email-signup.php' ?>
