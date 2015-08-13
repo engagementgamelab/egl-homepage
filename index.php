@@ -109,7 +109,7 @@
 
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> Join us for the first #CivicMediaChat on Play and Creativity Monday, April 27th at 4pm EST <a href='http://engagementgamelab.org/blog/2015/04/join-us-for-the-first-civicmediachat-on-play-and-creativity-monday-the-27th-at-4pm-est/'>[learn more]</a>
+								 <b>NEWS:</b> How do we engage people in the increasingly complex issues of human development? Watch a trailer for Games for Development, a new way of engaging: <a href='http://engagementgamelab.org/blog/2015/08/games-for-development-video/'>[learn more]</a>
 							</span>
 							<br>
 							<?php include 'email-signup.php' ?>
