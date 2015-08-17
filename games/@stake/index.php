@@ -76,7 +76,7 @@
 							<p>
 								As a new tool still in development, @Stake has been used in a number of workshops, including for the UN, non-profit organizations at Harvard University, and The Frontiers of Democracy. The Engagement Lab offers this game as a free tool, and also offers facilitated play sessions for organizations who are interested in using games to foster empathy, creativity, collaboration, deliberation, and enthusiasm in civic processes.
 							</p>
-							<p><span>Email us about using @Stake at info [at] engagementgamelab.org</p>
+							<p><span>Email us about using @Stake at <a href="mailto:info@elab.emerson.edu" target="_top">info@elab.emerson.edu</a></p>
 						</div>
 					</div>
 				</div>

@@ -109,7 +109,7 @@
 
 							<!-- MAKE UPDATES HERE -->
 							<span>
-								 <b>NEWS:</b> How do we engage people in the increasingly complex issues of human development? Watch a trailer for Games for Development, a new way of engaging: <a href='http://engagementgamelab.org/blog/2015/08/games-for-development-video/'>[learn more]</a>
+								 <b>NEWS:</b> We're thrilled to announce we just launched a website reflecting the outcomes from our Civic Media: Metrics and Methods event at Microsoft NERD this past June. <a href='http://bostoncivic.media'>[learn more]</a>
 							</span>
 							<br>
 							<?php include 'email-signup.php' ?>

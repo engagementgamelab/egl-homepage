@@ -23,7 +23,7 @@
 				<div id='people' class='anchor'>
 					<div class='row'>
 						 <div class='span12'>
-							<h2>Faculty</h2>
+							<h2>Leadership</h2>
 						</div> 
 					</div>
 					<div class='row'>
@@ -56,96 +56,26 @@
 							</div>
 						</div>
 						<div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#cathBio' src='../img/people/bio/cath.jpg' data-real='cath' class='headshot'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#cathBio'><span class="boldnametitle">Catherine D'Ignazio</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#cathBio'>Fellow &amp; Assistant Professor</p>
-							<div id='cathBio' class='collapse out'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#marikoBio' src='../img/people/bio/real_mariko.jpg' data-real='mariko' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#marikoBio'><span class="boldnametitle">Mariko Davidson</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#marikoBio'>Managing Director</p>
+							<div id='marikoBio' class='collapse out'>
 								<p>
-									Catherine is a researcher, artist and software developer who investigates how data visualization, technology and new forms of storytelling can be used for civic engagement. She has conducted research on geographic bias in the news media, developed software to geolocate news articles and designed an application, &ldquo;Terra Incognita&rdquo;, to promote global news discovery. She is currently working with the Public Laboratory for Technology and Science to create an open source water sensing toolkit for journalists. 
-
-									Her art and design projects have won awards from the Tanne Foundation, Turbulence.org, the LEF Foundation, and Dream It, Code It, Win It. In 2009, she was a finalist for the Foster Prize at the ICA Boston. Her work has been exhibited at the Eyebeam Center for Art & Technology, Museo d&#39;Antiochia of Medellin, and the Venice Biennial. She is also a Research Affiliate at the MIT Center for Civic Media.								
+								An urbanist and civic entrepreneur with an adventurous spirit, Mariko's career spans over seven years of creative development experience with much of that time leading and designing successful domestic and international civic programs. Some of her previous achievements include launching civic programs at the <a href="http://www.eastwestcenter.org/seminars-and-journalism-fellowships/policy-dialogue/asia-pacific-us-urban-dialogue">East-West Center</a> and the <a href="http://newurbanmechanics.org/2013/09/23/east-boston-makers-movers/">Mayor's Office of New Urban Mechanics</a>. She holds a Master's in City Planning from MIT where she focused on issues of civic engagement, governance, and social equity. Most recently, Mariko served as an Innovation Fellow where she led the open data initiative for the Commonwealth of Massachusetts. 
 								</p>
 								<p>
-									<a target='_blank' href='https://twitter.com/kanarinka' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-	      							<a target='_blank' href='http://www.ikatun.com/kanarinka/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
-	      						</p>
-							</div>
-						</div>
-					</div>
-					<div class='row'>
-						<div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mirandaBio' src='../img/people/bio/miranda.jpg' data-real='miranda' class='headshot'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'><span class="boldnametitle">Miranda Banks</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'>Researcher &amp; Assistant Professor</p>
-							<div id='mirandaBio' class='collapse out'>
-								<p>
-									Miranda&#39;s primary area of research is the American film and television industries, with a specific focus on creative and craft guilds and unions. She is co-editor of Production Studies: Cultural Studies of Media Industries (Routledge, 2009). She has written for Television & New Media, Cinema Journal, Popular Communication, Flow, Cultural Studies, and The Journal of Popular Film and Television, as well as for the anthologies How to Watch TV (NYU Press, 2013), The Handbook of Television Studies (Sage, forthcoming), Teen Television (BFI, 2004), and Garb: A Reader on Fashion and Culture (Prentice Hall, 2007). Before arriving at Emerson, she spent two years as a Visiting Assistant Professor in USC's School of Cinematic Arts.								</p>
-								<p>
-									<a target='_blank' href='https://twitter.com/mmmbanksy' target='_blank'><i class='icon-twitter icon-large rel='tooltip' data-title='twitter''></i></a>
-									<a target='_blank' href='http://mirandabanks.tv/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
-								</p>
-							</div>
-						</div>
-						<div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#russBio' src='../img/people/bio/russ.jpg' data-real='russ' class='headshot'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#russBio'><span class="boldnametitle">Russell Newman</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#russBio'>Fellow &amp; Assistant Professor</p>
-							<div id='russBio' class='collapse out'>
-								<p>
-									Previous to his arrival at Emerson, Russell Newman served as the research director for the national nonprofit advocacy group Free Press. There, he focused on media and telecommunications policy, tracking current issues, writing issue briefs, creating Web content, and speaking publicly regarding emerging debates. With Robert McChesney and Ben Scott, he is the co-editor of The Future of Media: Resistance and Reform in the 21st Century (Seven Stories Press, 2005), named as one of Working Assets' Recommended Reads for July 2005. He spent several years as a freelance multimedia designer and as a promamduction designer for a number of independent films. He was active in noncommercial radio in Boston for nearly a decade. Russell was a Waterston Fellow at Suffolk University's Sawyer School of Management, where he earned a master's degree focusing on the political economy of mass communication, nonprofit management and documentary production; he earned his bachelor's degree from the Massachusetts Institute of Technology. Russell is interested in exploring the intersections of the political economy of media, the epistemological foundations of media policymaking and governance, and ongoing struggles against existing structures of power.								
-								</p>	
-							</div>
-						</div>
-						<div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#vinceBio'  src='../img/people/bio/vince.jpg' data-real='vince' class='headshot' style='background: url(../img/people/bio/real_vince.jpg);'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'><span class="boldnametitle">Vincent Raynauld</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'>Fellow &amp; Assistant Professor</p>
-							<div id='vinceBio' class='collapse out'>
-								<p>
-									Vincent Raynauld is a Ph.D. graduate from Carleton University&#39;s School of Journalism and Communication with a research interest in political communication, social media, Web persuasion and e-learning. In October 2013, he defended his dissertation, which is nominated for a Carleton University Senate Medal, one of the most prestigious awards for a Ph.D. student at Carleton University. Vincent is also serving as a research associate for the Groupe de Recherche en Communication Politique and an academic adviser for Samara, a non-profit organization researching political participation in Canada. In 2013, he was nominated as an everyday mentor for the "Million Skills Project" headed by researchers based at the University of Indiana.  In 2007, he was awarded a Joseph-Armand Bombardier Canada Graduate Scholarship (CGS) as well as a David and Rachel Epstein Scholarship, one of Carleton University’s most competitive awards for graduate students. 
-								</p>	
-								<p>
-									<a target='_blank' href='https://twitter.com/VincentR' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-									<a target='_blank' href='http://carleton-ca.academia.edu/raynauld' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
-								</p>
-							</div>
-						</div>
-					</div>	
-					<div class='row'>
-						<div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#sarahBio'  src='../img/people/bio/sarah.jpg' data-real='sarah' class='headshot'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'><span class="boldnametitle">Sarah Zaidan</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'>Fellow &amp; Assistant Professor</p>
-							<div id='sarahBio' class='collapse out'>
-								<p>
-									Sarah Zaidan is an illustrator, game designer and researcher whose work explores how identity, gender and society are shaped by mass media, particularly video games and comic books. She is Kingston University London&#39;s first recipient of a Ph.D. by practice in superhero art and history with research findings presented in the form of an award winning video game, The Adventures of MetaMan: The Male Superhero as a Representation of Modern Western Masculinity (1940-2010). She is one of the creators and illustrators of the feminist superhero comic series My So-Called Secret Identity, in collaboration with Batman scholar Will Brooker.
-								<p>
-									<a target='_blank' href='https://twitter.com/drsarahzaidan' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-									<a target='_blank' href='http://ateliermitti.tumblr.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+									<a href='http://twitter.com/votemariko' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+									<a href='http://marikodavidson.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
 								</p>
 							</div>
 						</div>
 					</div>
 					<div class='row'>
 						 <div class='span12'>
-							<h2>Staff</h2>
+							<h2>Team</h2>
 						</div> 
 					</div>
 					<div class='row'>
-						<div class='span4 person'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#stephenBio' src='../img/people/bio/stephen.jpg' data-real='stephen' class='headshot cartoon'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'><span class="boldnametitle">Stephen Walter</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'>Managing Director</p>
-							<div id='stephenBio' class='collapse out'>
-								<p>
-									Stephen is a person who makes and studies media that aim to foster experiences of complexity, difference, and play. He's worked at Boston EMS, the Boston Public Health Commission, the Boston Center for the Arts, the Harvard Graduate School of Education, and the PBS television shows Frontline and Nova. At the EGL, he's helped lead the development of civic media projects in Detroit, Boston, Philadelphia, Los Angeles, South Africa, Sweden, Moldova, and Zambia. <a href='http://www.chrono-synclastic-infundibulum.com/Resume.html' target='_blank'>Here</a> is a cv. 
-								</p>
-								<p>
-									<a href='http://www.chrono-synclastic-infundibulum.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
-								</p>
-							</div>
-						</div>
-						
 						<div class='span4 person'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#aidanBio'  src='../img/people/bio/aidan.jpg' data-real='aidan' class='headshot cartoon'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#aidanBio'><span class="boldnametitle">Aidan O'Donohue</span></p>
@@ -164,16 +94,13 @@
 							<p class='trigger' data-toggle='collapse' data-target='#christinaBio'>Project Manager</p>
 							<div id='christinaBio' class='collapse out'>
 								<p>
-									Christina's abiding interests in open access to a participatory democracy, ethics, and the role of technology in shaping human experiences drew her to the Engagement Game Lab. With degrees from the University of Chicago (A.B., English Language &amp; Literature) and University of Southern California (M.A., English: Film, Literature &amp; Culture), she brings a love of language, philosophy and the visual arts to bear on her work at the lab, thinking through and spreading the word about the possibilities opened up by meaningful play in public deliberation, broaching reasonable solutions to complex problems. Email at christina [at] engagmentgamelab.org
+									Christina's abiding interests in open access to a participatory democracy, ethics, and the role of technology in shaping human experiences drew her to the Engagement Game Lab. With degrees from the University of Chicago (A.B., English Language &amp; Literature) and University of Southern California (M.A., English: Film, Literature &amp; Culture), she brings a love of language, philosophy and the visual arts to bear on her work at the lab, thinking through and spreading the word about the possibilities opened up by meaningful play in public deliberation, broaching reasonable solutions to complex problems. Email at <a href="mailto:christina@elab.emerson.edu" target="_top">christina@elab.emerson.edu</a>
 								</p>
 								<p>
 								</p>
 							</div>
 						</div>
-					</div>
-                    
-					<div class='row'>
-                        <div class='span4 person'>
+						<div class='span4 person'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#samBio'  src='../img/people/bio/sam.jpg' data-real='sam' class='headshot cartoon' style='background: url(../img/people/bio/real_sam.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'><span class="boldnametitle">Sam Liberty</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#samBio'>Chief Games Officer</p>
@@ -191,6 +118,9 @@
 								</p>
 							</div>
 						</div>
+					</div>
+                    
+					<div class='row'>
                         <div class='span4 person'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#beckyBio' src='../img/people/bio/becky.jpg' data-real='becky' class='headshot cartoon'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#beckyBio'><span class="boldnametitle">Becky Michelson</span></p>
@@ -213,10 +143,7 @@
 								</p>
 							</div> 
                         </div>
-                    </div>
-                    
-                    <div class='row'>
-                     <div class='span4 person peoplebw'>
+                        <div class='span4 person peoplebw'>
 		                    <p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jayBio' src='../img/people/bio/jay.jpg' data-real='jay' class='headshot' style='background: url(../img/people/bio/real_jay.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'><span class="boldnametitle">Jay Vachon</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jayBio'>Developer</p>
@@ -231,6 +158,9 @@
 								</p>
 							</div>
 						</div>
+                    </div>
+                    
+                    <div class='row'>
                          <div class='span4 person peoplebw'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#seanBio' src='../img/people/bio/sean.jpg' data-real='sean' class='headshot' style='background: url(../img/people/bio/real_sean.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#seanBio'><span class="boldnametitle">Sean Van Deuren</span></p>
@@ -242,39 +172,6 @@
 							</div>
 						</div>
                         <div class='span4 person peoplebw'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/maya.jpg' data-real='maya' class='headshot' style='background: url(../img/people/bio/real_maya.jpg);'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'><span class="boldnametitle">Maya Wagoner</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Curriculum Developer</p>
-							<div id='mayaBio' class='collapse out'>
-								<p>
-									 Maya is a community technology organizer and user experience designer interested in designing digital services with people's political, historical, and experiential knowledge in mind, and in empowering people to create digital services and networks for themselves. She graduated from UC Santa Cruz with a degree in American Studies, and completed a User Experience Design Immersive program at General Assembly. While in San Francisco, she organized the Code for San Francisco Brigade, a local civic technology volunteer group. She is currently working on strengthening the networks in civic media scholarship and practice in the Boston area through a civic media conference, consortium, and website.
-								</p>
-								<p>
-									<a target='_blank' href='http://twitter.com/JeddCohen' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
-	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
-								</p>
-							</div>
-						</div>
-                    </div>
-                    
-                    <div class='row'>
-                        <div class='span4 person'>
-							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/jedd.jpg' data-real='jedd' class='headshot cartoon'></div></p>
-							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'><span class="boldnametitle">Jedd Cohen</span></p>
-							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Curriculum Developer</p>
-							<div id='jeddBio' class='collapse out'>
-								<p>
-									 Jedd is working to adapt Community PlanIt for use in schools and other community and advocacy organizations. He earned his EdM at the Harvard Graduate School of Education and has worked throughout the education sector as a policy researcher, community organizer, and teacher. He's interested in the ways that people and organizations learn. Contact: jedd [at] engagementgamelab.org.
-								</p>
-								<p>
-									<a target='_blank' href='http://twitter.com/JeddCohen' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
-	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
-	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
-								</p>
-							</div>
-						</div>
-                         <div class='span4 person peoplebw'>
 							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jordanBio' src='../img/people/bio/jordan.jpg' data-real='jordan' class='headshot' style='background: url(../img/people/bio/real_jordan.jpg);'></div></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jordanBio'><span class="boldnametitle">Jordan Pailthorpe</span></p>
 							<p class='trigger' data-toggle='collapse' data-target='#jBio'>Producer</p>
@@ -294,8 +191,9 @@
 								</p>
 							</div>
 						</div>
-                    </div>	
-					<div class='row'>
+                    </div>
+                    
+                    <div class='row'>
 						<div class='span4 person peoplebw'>
 								<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#wadeBio' src='../img/people/bio/wade.jpg' data-real='wade' class='headshot' style='background: url(../img/people/bio/real_wade.jpg);'></div></p>
 								<p class='trigger' data-toggle='collapse' data-target='#wadeBio'><span class="boldnametitle">Wade Kimbrough</span></p>
@@ -334,7 +232,134 @@
 								</p>
 							</div>
 						</div>
+                    </div>	
+					
+					<div class='row'>
+						 <div class='span12'>
+							<h2>Fellows &amp; Affiliates</h2>
+						</div> 
 					</div>
+					<div class='row'>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#cathBio' src='../img/people/bio/cath.jpg' data-real='cath' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#cathBio'><span class="boldnametitle">Catherine D'Ignazio</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#cathBio'>Fellow &amp; Assistant Professor</p>
+							<div id='cathBio' class='collapse out'>
+								<p>
+									Catherine is a researcher, artist and software developer who investigates how data visualization, technology and new forms of storytelling can be used for civic engagement. She has conducted research on geographic bias in the news media, developed software to geolocate news articles and designed an application, &ldquo;Terra Incognita&rdquo;, to promote global news discovery. She is currently working with the Public Laboratory for Technology and Science to create an open source water sensing toolkit for journalists. 
+
+									Her art and design projects have won awards from the Tanne Foundation, Turbulence.org, the LEF Foundation, and Dream It, Code It, Win It. In 2009, she was a finalist for the Foster Prize at the ICA Boston. Her work has been exhibited at the Eyebeam Center for Art & Technology, Museo d&#39;Antiochia of Medellin, and the Venice Biennial. She is also a Research Affiliate at the MIT Center for Civic Media.								
+								</p>
+								<p>
+									<a target='_blank' href='https://twitter.com/kanarinka' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+	      							<a target='_blank' href='http://www.ikatun.com/kanarinka/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+	      						</p>
+							</div>
+						</div>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mirandaBio' src='../img/people/bio/miranda.jpg' data-real='miranda' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'><span class="boldnametitle">Miranda Banks</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mirandaBio'>Researcher &amp; Assistant Professor</p>
+							<div id='mirandaBio' class='collapse out'>
+								<p>
+									Miranda&#39;s primary area of research is the American film and television industries, with a specific focus on creative and craft guilds and unions. She is co-editor of Production Studies: Cultural Studies of Media Industries (Routledge, 2009). She has written for Television & New Media, Cinema Journal, Popular Communication, Flow, Cultural Studies, and The Journal of Popular Film and Television, as well as for the anthologies How to Watch TV (NYU Press, 2013), The Handbook of Television Studies (Sage, forthcoming), Teen Television (BFI, 2004), and Garb: A Reader on Fashion and Culture (Prentice Hall, 2007). Before arriving at Emerson, she spent two years as a Visiting Assistant Professor in USC's School of Cinematic Arts.								</p>
+								<p>
+									<a target='_blank' href='https://twitter.com/mmmbanksy' target='_blank'><i class='icon-twitter icon-large rel='tooltip' data-title='twitter''></i></a>
+									<a target='_blank' href='http://mirandabanks.tv/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+								</p>
+							</div>
+						</div>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#russBio' src='../img/people/bio/russ.jpg' data-real='russ' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#russBio'><span class="boldnametitle">Russell Newman</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#russBio'>Fellow &amp; Assistant Professor</p>
+							<div id='russBio' class='collapse out'>
+								<p>
+									Previous to his arrival at Emerson, Russell Newman served as the research director for the national nonprofit advocacy group Free Press. There, he focused on media and telecommunications policy, tracking current issues, writing issue briefs, creating Web content, and speaking publicly regarding emerging debates. With Robert McChesney and Ben Scott, he is the co-editor of The Future of Media: Resistance and Reform in the 21st Century (Seven Stories Press, 2005), named as one of Working Assets' Recommended Reads for July 2005. He spent several years as a freelance multimedia designer and as a promamduction designer for a number of independent films. He was active in noncommercial radio in Boston for nearly a decade. Russell was a Waterston Fellow at Suffolk University's Sawyer School of Management, where he earned a master's degree focusing on the political economy of mass communication, nonprofit management and documentary production; he earned his bachelor's degree from the Massachusetts Institute of Technology. Russell is interested in exploring the intersections of the political economy of media, the epistemological foundations of media policymaking and governance, and ongoing struggles against existing structures of power.								
+								</p>	
+							</div>
+						</div>
+					</div>	
+					<div class='row'>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#vinceBio'  src='../img/people/bio/vince.jpg' data-real='vince' class='headshot' style='background: url(../img/people/bio/real_vince.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'><span class="boldnametitle">Vincent Raynauld</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#vinceBio'>Fellow &amp; Assistant Professor</p>
+							<div id='vinceBio' class='collapse out'>
+								<p>
+									Vincent Raynauld is a Ph.D. graduate from Carleton University&#39;s School of Journalism and Communication with a research interest in political communication, social media, Web persuasion and e-learning. In October 2013, he defended his dissertation, which is nominated for a Carleton University Senate Medal, one of the most prestigious awards for a Ph.D. student at Carleton University. Vincent is also serving as a research associate for the Groupe de Recherche en Communication Politique and an academic adviser for Samara, a non-profit organization researching political participation in Canada. In 2013, he was nominated as an everyday mentor for the "Million Skills Project" headed by researchers based at the University of Indiana.  In 2007, he was awarded a Joseph-Armand Bombardier Canada Graduate Scholarship (CGS) as well as a David and Rachel Epstein Scholarship, one of Carleton University’s most competitive awards for graduate students. 
+								</p>	
+								<p>
+									<a target='_blank' href='https://twitter.com/VincentR' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+									<a target='_blank' href='http://carleton-ca.academia.edu/raynauld' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+								</p>
+							</div>
+						</div>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#sarahBio'  src='../img/people/bio/sarah.jpg' data-real='sarah' class='headshot'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'><span class="boldnametitle">Sarah Zaidan</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#sarahBio'>Fellow &amp; Assistant Professor</p>
+							<div id='sarahBio' class='collapse out'>
+								<p>
+									Sarah Zaidan is an illustrator, game designer and researcher whose work explores how identity, gender and society are shaped by mass media, particularly video games and comic books. She is Kingston University London&#39;s first recipient of a Ph.D. by practice in superhero art and history with research findings presented in the form of an award winning video game, The Adventures of MetaMan: The Male Superhero as a Representation of Modern Western Masculinity (1940-2010). She is one of the creators and illustrators of the feminist superhero comic series My So-Called Secret Identity, in collaboration with Batman scholar Will Brooker.
+								<p>
+									<a target='_blank' href='https://twitter.com/drsarahzaidan' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+									<a target='_blank' href='http://ateliermitti.tumblr.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+								</p>
+							</div>
+						</div>
+					</div>
+					<div class='row'>
+						 <div class='span12'>
+							<h2>Alumni</h2>
+						</div> 
+					</div>
+					<div class='row'>
+						<div class='span4 person'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#stephenBio' src='../img/people/bio/stephen.jpg' data-real='stephen' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'><span class="boldnametitle">Stephen Walter</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#stephenBio'>Founding Managing Director</p>
+							<div id='stephenBio' class='collapse out'>
+								<p>
+									Stephen is a person who makes and studies media that aim to foster experiences of complexity, difference, and play. He's worked at Boston EMS, the Boston Public Health Commission, the Boston Center for the Arts, the Harvard Graduate School of Education, and the PBS television shows Frontline and Nova. At the EGL, he's helped lead the development of civic media projects in Detroit, Boston, Philadelphia, Los Angeles, South Africa, Sweden, Moldova, and Zambia. <a href='http://www.chrono-synclastic-infundibulum.com/Resume.html' target='_blank'>Here</a> is a cv. 
+								</p>
+								<p>
+									<a href='http://www.chrono-synclastic-infundibulum.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='website'></i></a>
+								</p>
+							</div>
+						</div>
+						<div class='span4 person'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jeddBio' src='../img/people/bio/jedd.jpg' data-real='jedd' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'><span class="boldnametitle">Jedd Cohen</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jeddBio'>Curriculum Developer</p>
+							<div id='jeddBio' class='collapse out'>
+								<p>
+									 Jedd is working to adapt Community PlanIt for use in schools and other community and advocacy organizations. He earned his EdM at the Harvard Graduate School of Education and has worked throughout the education sector as a policy researcher, community organizer, and teacher. He's interested in the ways that people and organizations learn. Contact: <a href="mailto:jedd@elab.emerson.edu" target="_top">jedd@elab.emerson.edu</a>
+								</p>
+								<p>
+									<a target='_blank' href='http://twitter.com/JeddCohen' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
+	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
+								</p>
+							</div>
+						</div>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#mayaBio' src='../img/people/bio/maya.jpg' data-real='maya' class='headshot' style='background: url(../img/people/bio/real_maya.jpg);'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'><span class="boldnametitle">Maya Wagoner</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#mayaBio'>Curriculum Developer</p>
+							<div id='mayaBio' class='collapse out'>
+								<p>
+									 Maya is a community technology organizer and user experience designer interested in designing digital services with people's political, historical, and experiential knowledge in mind, and in empowering people to create digital services and networks for themselves. She graduated from UC Santa Cruz with a degree in American Studies, and completed a User Experience Design Immersive program at General Assembly. While in San Francisco, she organized the Code for San Francisco Brigade, a local civic technology volunteer group. She is currently working on strengthening the networks in civic media scholarship and practice in the Boston area through a civic media conference, consortium, and website.
+								</p>
+								<!--<p>
+									<a target='_blank' href='http://twitter.com/JeddCohen' target='_blank'><i class='icon-twitter icon-large' rel='tooltip' data-title='twitter'></i></a>
+	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
+	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
+								</p>-->
+							</div>
+						</div>
+					</div>
+
 				<!--<div class='row'>
 					<div class='row'>
 						 <div class='span12'>
