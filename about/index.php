@@ -217,7 +217,7 @@
 									<br>
 									<span class='studentType'>Undergraduate Students</span>
 									<br>
-									<span class='studentName'>Alexandra Eby</span>- Graphics
+									<span class='studentName'>Alex Eby</span>- Graphics
 									<br>
 									<span class='studentName'>Sean Vaccaro</span>- Production Assistant
 									<br>
@@ -356,6 +356,47 @@
 	      							<a target='_blank' href='http://www.linkedin.com/profile/view?id=17264239&trk=nav_responsive_tab_profile' target='_blank'><i class='icon-linkedin icon-large' rel='tooltip' data-title='linkedIn'></i></a>
 	      							<a target='_blank' href='http://teachingasactionresearch.wordpress.com/' target='_blank'><i class='icon-star icon-large' rel='tooltip' data-title='portfolio'></i></a>
 								</p>-->
+							</div>
+						</div>
+					</div>
+					<div class='row'>
+						<div class='span4 person'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#robBio' src='../img/people/bio/rob.jpg' data-real='rob' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#robBio'><span class="boldnametitle">Rob McKenzie</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#robBio'>Lab Coordinator</p>
+							<div id='robBio' class='collapse out'>
+								<p>
+									Rob helped the lab function on a daily basis and coordinated lab events, student outreach, and impromptu Nerf Gun battles. He graduated in 2013 from Emerson College with a degree in Writing for Film and Television and has previously worked for Antiques Roadshow and Good Universe Productions. His interests include theater, internet culture, and of course, whitewater kayaking.
+								</p>
+							</div>
+						</div>
+						<div class='span4 person'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#jesseBio' src='../img/people/bio/jesse.jpg' data-real='jesse' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jesseBio'><span class="boldnametitle">Jesse Baldwin-Philippi, PhD</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#jesseBio'>Researcher &amp; Visiting Professor</p>
+							<div id='jesseBio' class='collapse out'>
+								<p>
+									Jesse was a visiting faculty member in Emerson's Department of Visual and Media Arts, and studies civic engagement, citizenship, and digital media. Her work is fundamentally concerned with how engagement with new technologies can restructure forms of political participation and ideas about citizenship, and has covered a variety of topics from political campaigns to games to government innovation. Visit <a href='http://jessebp.com' target='_blank'>her work</a> or contact her at Jessica_Philippi [at] emerson.edu. Download latest cv <a href='http://jessebp.com/cv' target='_blank'>here</a>.
+								</p>
+							</div>
+						</div>
+						<div class='span4 person peoplebw'>
+							<p><div class='bwcontainer'><img data-toggle='collapse' data-target='#russellBio' src='../img/people/bio/russell.jpg' data-real='russell' class='headshot cartoon'></div></p>
+							<p class='trigger' data-toggle='collapse' data-target='#russellBio'><span class="boldnametitle">Russell Goldenberg</span></p>
+							<p class='trigger' data-toggle='collapse' data-target='#russellBio'>Hacker in Chief</p>
+							<div id='russellBio' class='collapse out'>
+								<p>
+									Russell is an interactive developer.  When not coding, you can find him cooking up something 
+									fierce or playing basketball, fiercely. He has a longstanding relationship with Processing, 
+									but lately has been flirting with Node, JavaScript, and real-time web apps.  He studied computer 
+									science at Union College and became a Master of Fine Arts a Emerson College.  
+									He makes games, data visualizations, interactive documentaries, and experimental code projects.
+								</p>
+								<p>
+									<a target='_blank' href='http://twitter.com/codenberg' target='_blank'><i class='icon-twitter icon-large'></i></a>
+	      							<a target='_blank' href='http://github.com/russellgoldenberg' target='_blank'><i class='icon-github-alt icon-large'></i></a>
+	      							<a target='_blank' href='http://russellgoldenberg.com' target='_blank'><i class='icon-user icon-large'></i></a>
+	      						</p>
 							</div>
 						</div>
 					</div>
