@@ -267,7 +267,7 @@
 				</div>
 				<div class='row'>
 				</div>
-				<div class='guidebookBox'>
+				<div class='guidebookBox' style="margin-bottom: 5%;">
 						<div class='row'>
 								<div class='span12'>
 									<h2><a href='http://www.amazon.com/The-Urban-Spectator-Concept-Cities-Interfaces/dp/1584658037'>The Urban Spectator: American Concept-Cities from Kodak to Google</a></h2>	

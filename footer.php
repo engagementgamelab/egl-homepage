@@ -27,7 +27,7 @@
 	<div class='row social'>
 		<div class='span12'> 
 			<p>
-				<span>e-mail: </span>info [at] engagementgamelab.org
+				<span>e-mail: </span><a href="mailto:info@elab.emerson.edu">info@elab.emerson.edu</a>
 			</p>
 		</div>
 	</div>

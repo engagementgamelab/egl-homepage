@@ -64,7 +64,7 @@
 							<li><a data-target='#' href='/about/#people'>PEOPLE</a></li>
 							<li><a data-target='#' href='/about/#press'>PRESS</a></li>
 							<li><a data-target='#' href='/about/#partners'>PARTNERS</a></li>
-							<li><a data-target='#' href='/jobs'>JOBS</a></li>
+							<!--<li><a data-target='#' href='/jobs'>JOBS</a></li>-->
 						</ul>
 					</li>
 					

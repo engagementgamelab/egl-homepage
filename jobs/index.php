@@ -10,11 +10,11 @@
 				<div class='row' id='jobs'>
 					<div class='span12'>
 						<h1>Come Work with Us!</h1>
-						<h3>We are looking to fill the following positions as soon as possible:</h3>
+						<h3>We are not looking to fill any positions at this time.</h3>
 
 
 
-                        <h4><span>Position:</span> Contract Unity UI Engineer</h4>
+                        <!--<h4><span>Position:</span> Contract Unity UI Engineer</h4>
                         <p>
                         	<span>Description:</span> The Engagement Lab at Emerson College is looking for a UI Engineer for a short-term contract (1-3 months) to help us develop a game built in the Unity 5 engine. This position requires extensive experience with Unity and C#, and the ability to produce high-quality, reusable code very quickly within a small team environment. The ideal candidate will have a keen UI/UX design sense and the programming ability to implement assets created by our team in a streamlined, mobile first development cycle.
                         </p>
@@ -43,7 +43,7 @@
 						</p>
 						<p>
 							Please forward a resume/portfolio to <span>Jordan [at] elab.emerson.edu</span> along with a short bio/cover letter within the body of the email.
-						</p>
+						</p>-->
 						<p>
 							The Engagement Lab is an applied research lab at <a href="http://www.emerson.edu/">Emerson College</a> focusing on the development and study of games, technology, and new media to enhance civic life. The Lab works directly with its partner communities to design and facilitate civic engagement processes, augment stakeholder deliberation, and broaden the diversity of participants in local decision-making. Along with the <a href="salzburg.umd.edu">Salzburg Academy</a> on Media and Global Change, the Engagement Lab also serves as the hub of a global network of engagement and new media organizations.
 						</p>
