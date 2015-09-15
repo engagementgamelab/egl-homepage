@@ -14,6 +14,8 @@
 						<h3>We are looking to fill the following positions as soon as possible:</h3>
 
                         <h4><span>Position:</span> Research Assistant and Project Coordinator | Community-based Institutional Review Board (CIRB)</h4>
+                        <h4>10-15 hours per week</h4>
+
                         <p>
                         	<span>Description:</span> Boston-area community organizations are heavily studied. Academic researchers are consistently reaching out to these organizations for their data or their connections. Too often, this relationship is merely extractive - researchers take data, publish in academic journals, and never provide meaningful input to the organizations and the communities they serve. While researchers need to go through an institutional review process to assure the safety of research subjects, there is nothing in the current process that assures the benefit of research.
                         </p>
