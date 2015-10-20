@@ -15,3 +15,4 @@ PHP and MySQL are only used for the whiteboard drawings and the game information
 Bootstrap 2.3.2 was used for responsive.  More specifically Flatstrap (a flat design version of it).  Everything is written in LESS and must be precompiled (I prefer LiveReload but there are plenty of LESS compiling options).  The folder you should care about is /custom-less.  This is where all the CSS edits should be made.  The only files that are watched are custom-boostrap.less and custom-game.less.
 
 This is a test!!# NanoGame
+Property of the Emerson Engagement Lab.
