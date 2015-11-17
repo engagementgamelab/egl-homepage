@@ -32,6 +32,7 @@
 					<li class='dropdown'>
 						<a href='/learning' class='dropdown-toggle disabled' data-toggle='dropdown'>LEARNING</a>
 						<ul class='dropdown-menu'>
+                            <li><a data-target='#' href='/CMAP'>MASTERS PROGRAM</a>
 							<li><a data-target='#' href='/learning/#workshop'>WORKSHOPS AND TRAINING</a>
 							<li><a data-target='#' href='/learning/#courses'>COURSES</a></li>
 							<li><a data-target='#' href='/learning/#resources'>RESOURCES</a></li>

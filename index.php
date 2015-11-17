@@ -117,9 +117,9 @@
 					</div>
 					<div class='rightHalf'>
 						<p class='introText'>
-							Interested in learning more about who we are and how we do what we do?
+							The new Civic Media Arts Program is accepting applications for Fall 2016!
 						</p>
-						<p class='playBig'><a href='' class='playGameButton'>PLAY<em>!</em></a></p>
+						<p class='playBig'><a href='/CMAP' class='playGameButton'>APPLY<em>!</em></a></p>
 						<p class='loading'>loading...</p>
 					</div>
 				</div>
@@ -181,7 +181,7 @@
 			.script('js/libs/plugins.js').wait()
 			.script('js/libs/pathfinding-browser.min.js').wait()
 			.script('js/game/main.js').wait(function() {
-				var gotGame = $game.init();
+				var gotGame = falses;
 				if(gotGame) {
 					$LAB
 					.script('js/game/input.js')
