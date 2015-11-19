@@ -9346,6 +9346,35 @@ a.badge:focus {
   text-align: center;
   font-size: 1em;
 }
+.program{
+  padding: auto;
+}
+.program p {
+  width: 90%;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
+.blueCircle{
+  width:192px;
+  height:192px;
+  background: #40b4bc;
+
+}
+.orangeCircle{
+  width:192px;
+  height:192px;
+  background: #d43200;
+}
+.circle {
+  border-radius: 50%;
+  margin: auto;
+}
+.circle h2 {
+  color: white;
+  text-align: center;
+  padding-top: 35%;
+}
 
 .boldnametitle {
   font-weight: 700;

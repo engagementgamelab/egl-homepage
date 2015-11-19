@@ -7,52 +7,174 @@
 		<div id='wrap'>
     		<?php include '../nav.php' ?>
 			<div id='whatwedo' class='anchor'>
-				<div class='row'>
-					<div class='researchBody'>
-						<!-- <h2> What We Do </h2> -->
-						<p class='bigIdea'>
-							The Civic Media Arts Program (CMAP) has begun! There are things on this page that give information for you to apply! Very exciting!
-						</p>
-						<p>
-						The Lab works directly with its partner communities to design and facilitate civic engagement processes, augment stakeholder deliberation, and broaden the diversity of participants in local decision-making. Along with the <a href='http://salzburg.umd.edu/'>Salzburg Academy on Media and Global Change</a>, the Engagement Lab also serves as the hub of a global network of engagement and new media organizations.
-						</p>
+				<div class="container">
+					<div class='row'>
+						<div class=''>
+							<div class="span4">
+								<div class="projectlogo">
+									<img src="/logos/EGL_logomockup_final.png" >
+								</div>
+							</div>
+							<div class="span8">
+								<!-- <h2> What We Do </h2> -->
+								<h1>
+								Civic Media, Art, &amp; Practice <br>Master of Arts
+								</h1>
+								<p>
+								The MA in Civic Media, Art &amp; Practice is an intensive 12-month program centered around the production of a creative thesis project, situated within the theories and methodologies explored during coursework. Through the lasting connections forged with organizational partners they encounter during their year in the program, CMAP graduates will be well-positioned to create their own avenues for work across a range of careers -- from leadership roles in innovation offices of municipal governments, to creative digital roles at foundations and corporations focused on implementing technologies for civic engagement in non-profit, governmental or for profit industries that focus on social responsibility.</p>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
-            <div class='container'>
-				<div id='projects'>
-					<div class='row'>
-						<div class='span4'>
-							<p class='picture'><a href='../games/community-planit/'><img src='/img/projects/cpi.jpg'></a></p>
-							<p class='description'><span>Curriculum</span> is still being planned but will include many books and other media to teach students the best civic media education!</p>
+			<div class="container">
+				<h1>
+				Core Elements of the CMAP Experience
+				</h1>
+				<div class="row">
+						<div class="span6 program">
+							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#engagedBio" src="../../img/people/bio/eric.jpg" data-real="eric" class="headshot"></div><p></p>
+							<p class="trigger" data-toggle="collapse" data-target="#engagedBio"><span class="boldnametitle">Engaged Research with Faculty Fellows from Across the College</span></p>
+							
+							<div id="engagedBio" class="collapse out">
+								<p>
+									CMAP is supported by a core of faculty from Emerson College who are Engagement Lab Fellows. This group consists of nine professors from across the college (School of Arts, School of Communication, and the Institute for Liberal Arts and Interdisciplinary Studies). Their mission is to cultivate an intellectual community at Emerson College committed to research, pedagogy and practice of civic media. Our fellowship program is at the core of this mission, bringing together faculty from the Emerson community, and beyond, to build intellectual capacity for <em>engaged research</em>--research with direct application to people’s lives and livelihoods.
+									</p>
+								
+							</div>
 						</div>
-						<div class='span4'>
-							<p class='picture'><a href='../games/civic-seed/'><img src='/img/projects/cs.jpg'></a></p>
-							<p class='description'><span>Faculty</span> is a diverse group of individuals with different backgrounds in real-world civic media situations</p>
+						<div class="span6 program">
+							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#teachingBio" src="../img/people/bio/paul.jpg" data-real="paul" class="headshot"></div><p></p>
+							<p class="trigger" data-toggle="collapse" data-target="#teachingBio"><span class="boldnametitle">Teaching Assistantships in the Salzburg Academy of Media and Global Change</span></p>
+							<div id="teachingBio" class="collapse out">
+								<p>
+									Each summer, CMAP students interested in the education field or global development work may opt to serve as teaching assistants in the Salzburg Academy of Media and Global Change, working with undergraduates from all over the world to guide their own rapid prototyping of civic media projects. During the intensive three-week long academy, students study how culture, media, and technology can impact social movements, civic life and governance. This provides CMAP students the unique opportunity to teach others what they have learned, core to the pedagogical mission of the program. 								</p>
+								
+							</div>
 						</div>
-						<div class='span4'>
-							<p class='picture'><a href='../games/upriver/'><img src='/img/projects/upriver.jpg'></a></p>
-							<p class='description'><span>Applications</span> are due soon! Prepare for the one-year program next fall!</p>
+					</div>
+					<div class="row">
+						<div class="span6 program">
+							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#externalBio" src="../img/people/bio/real_mariko.jpg" data-real="mariko" class="headshot"></div><p></p>
+							<p class="trigger" data-toggle="collapse" data-target="#externalBio"><span class="boldnametitle">Partnerships with External Organizations</span></p>
+							<div id="externalBio" class="collapse out">
+								<p>
+								External organizations will sign up to work with a CMAP cohort for a period of 12 months. The Engagement Lab has a strong track record of working with partner organizations, from NGOs and global advocacy organizations to cultural institutions and city governments. The Lab will cultivate partnerships to support each CMAP cohort, while partners will be encouraged to work with the Engagement Lab across cohorts on multiple facets of a single project or multiple projects.
+
+								</p>
+								
+							</div>
 						</div>
-					</div>	
-				</div>
+						<div class="span6 program">
+							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#academicBio" src="../img/people/bio/real_mariko.jpg" data-real="mariko" class="headshot"></div><p></p>
+							<p class="trigger" data-toggle="collapse" data-target="#academicBio"><span class="boldnametitle">Accademic Collaborations</span></p>
+							<div id="academicBio" class="collapse out">
+								<p>
+								External organizations will sign up to work with a CMAP cohort for a period of 12 months. The Engagement Lab has a strong track record of working with partner organizations, from NGOs and global advocacy organizations to cultural institutions and city governments. The Lab will cultivate partnerships to support each CMAP cohort, while partners will be encouraged to work with the Engagement Lab across cohorts on multiple facets of a single project or multiple projects.
+
+								</p>
+								
+							</div>
+						</div>
+					</div>
 			</div>
 
-            <div id='projectBlurb' >
-				<div class='row' >
+			<div id='projectBlurb' >
+				<div class="container">
 					<div class='projectBlurbBody' >
-						<h1 id='engagementgames'><strong>CMAP</strong></h1> 
-						<p class='bigIdea'>
-							Our engagement games and play-based projects are all designed not just to facilitate official processes, education, and real-world action, but to natively be real-world actions themselves. They are designed and built in cooperation with our <a href='/about/#partners' target='_blank'>partners</a>.
-						</p>
+						<div class="row">
+							<h1 id='engagementgames'><strong>Is CMAP the Right Program for You?</strong></h1> 
+							<p class='bigIdea'>
+								CMAP strives to produce leaders of the knowledge economy and aims to help empower young entrepreneurs, socially-engaged artists, and civic leaders who will embrace innovative and dynamic career opportunities. There are an increasing number of careers in communication and innovation within the public or non-profit sectors that call for this kind of multi-faceted expertise. In CMAP, students will gain experiencing working with government, international aid organizations and community-based organizations and will be prepared for careers such as:							</p>
+						</div>
+						<div class="row">
+							<div class="span4">
+								<ul>
+									<li><p>Community Manager</p>
+									</li>
+									<li><p>Director of Civic Engagement</p>
+									</li>
+									<li><p>Civic Technologist</p>
+									</li>
+									<li><p>Civic Artist</p>
+									</li>
+									<li><p>Digital Strategist</p>
+									</li>
+								</ul>
+							</div>
+							<div class="span4">
+								<ul>
+									<li><p>Innovation Director</p>
+									</li>
+									<li><p>Civic Designer</p>
+									</li>
+									<li><p>New Media Catalyst</p>
+									</li>
+									<li><p>Communications Director</p>
+									</li>
+									<li><p>Community Relations</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<div class="row">
+							<p>and work in a wide array of creative roles such as: </p>
+							<div class="span4">
+								<ul>
+									<li><p>Artist</p>
+									</li>
+									<li><p>Designer</p>
+									</li>
+									<li><p>Videographer</p>
+									</li>
+									<li><p>Entrepreneur</p>
+									</li>
+									<li><p>Developer</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<p>Whether you are coming straight out of an undergraduate program and want to pursue an advanced degree or someone who has spent some years working in industry and are looking to refine your skills and position yourself more strongly in the field of civic media, we want you to consider applying <a href="apply/"> to CMAP</a></p>
 					</div>
 				</div>
 			</div>
+			
+
+            <div class="container">
+				
+				<div class="row">
+						<div class="span4 program">
+							<p></p><a href="curriculum/"><div class="circle blueCircle"><h2>Curriculum</h2></div></a><p></p>
+							
+							<div id="curricShort" >
+								<p>
+								</p>
+								
+							</div>
+						</div>
+						<div class="span4 program">
+							<p></p><a href="faculty/"><div class="circle blueCircle"><h2>Faculty</h2></div></a><p></p>
+							<div id="facultyList">
+								<a href="faculty/">
+									<p>Eric Gordon, Director and Associate Professor</p>
+									<p>Paul Mihailidis, Director and Assistant Professor</p>
+									<p>Faculty Fellows and Associates</p>
+								</a>
+							</div>
+						</div>
+						<div class="span4 program">
+							<p></p><div class="circle orangeCircle"><h2>Apply</h2></div><p></p>
+							<p >Contact <a href="mailto:christina@elab.emerson.edu">Christina Wilson</a> for application information.</p>
+						</div>
+					</div>
+			</div>
+
+            
 			<div class='container'>		
 				<div id='press' class='anchor'>
 					<div class='row'>
 						<div class='span12'>
-							<h2>Featured Press</h2>
+							<h2>Featured Projects</h2>
 						</div>
 					</div>
 					<div class='row'>
@@ -109,16 +231,12 @@
 							</p>
 						</div>
 					</div>
-					<div class='row'>
-						<div class='span12'>
-							<p class='morePressButton'>
-								<button class='btn btn-default' data-toggle='collapse' data-target='#morePress' >More Press</button>
-							</p>
-						</div>
-					</div>
+					
                 </div>
-			</div>
-			<!-- <div id='push'></div> -->
+			</div><!-- <div id='push'></div> -->
+
+		</div>
+			
    		
 
 		<?php include '../footer.php' ?>
