@@ -9462,14 +9462,20 @@ padding-bottom: 5%;
 #cmapFeatured .bigButton .specialIcon img {
   width: 100%;
 }
-#cmapFeatured .bigButton .specialText {
-  color: #ffffff;
-  font-weight: 300;
-  font-size: 2.5em;
-  line-height: 1.2;
-  padding: 10px;
-  padding-top: 20px;
-  text-align: left;
+
+  #cmapFeatured .bigButton .specialText {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: xx-large;
+    line-height: 1.2;
+    padding: 10px;
+    padding-top: 20px;
+    text-align: left;
+  }
+@media (max-width: 768px) {
+  #cmapFeatured .bigButton .specialText {
+      font-size: large;
+    }
 }
 #cmapFeatured .bigButton:hover {
   background: #d43200;

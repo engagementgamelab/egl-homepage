@@ -144,8 +144,8 @@
                 </div>
               </div>
             </div>
-            <div class="span4 image">
-              <img src="/logos/hackpad.png" style="width: 400px;">
+            <div class="span4">
+              <img src="/logos/hackpad.png">
             </div>
           </div>
         </div>
