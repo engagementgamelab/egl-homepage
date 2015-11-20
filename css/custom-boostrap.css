@@ -9346,25 +9346,66 @@ a.badge:focus {
   text-align: center;
   font-size: 1em;
 }
+.cmapFaculty {
+  text-align: center;
+}
+.cmapFaculty .funTitle {
+  font-weight: 800;
+  font-size: 2.5em;
+  color: #ff5622;
+  margin-bottom: 0;
+}
+.cmapFaculty .fellows {
+  
+  text-align: left;
+}
+.cmapFaculty .fellows .funTitle{
+  padding-left:5%;
+  text-align: left;
+}
 .program{
-  padding: auto;
+  padding: 5%;
+}
+.program a:hover, a:focus{
+  text-decoration: none;
 }
 .program p {
-  width: 90%;
+  width: 100%;
   margin: auto;
   margin-top: 2%;
-  margin-bottom: 4%;
+  margin-bottom: 2%;
 }
+.smallIdea {
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
 .blueCircle{
   width:192px;
   height:192px;
   background: #40b4bc;
 
 }
+.outlineCircle p {
+color: #d43200;
+text-align: center;
+min-width: 100%;
+max-width: 150%;
+font-size: 30px;
+font-weight: 600;
+padding-top: 28%;
+
+}
+.outlineCircle {
+  border: 23px solid #78cbd1;
+  width:260px;
+  height: 260px;
+}
 .orangeCircle{
   width:192px;
   height:192px;
   background: #d43200;
+    margin-top: 10%;
 }
 .circle {
   border-radius: 50%;
@@ -9374,6 +9415,55 @@ a.badge:focus {
   color: white;
   text-align: center;
   padding-top: 35%;
+}
+
+.featProj {
+padding: 2%;
+padding-bottom: 5%;
+
+}
+.CMAPelements {
+  padding-top:5%;
+}
+
+
+#cmapFeatured .bigButton {
+  background: #ff5622;
+  -webkit-border-radius: 10px;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 10px;
+  -moz-background-clip: padding;
+  border-radius: 10px;
+  background-clip: padding-box;
+  height: 150px;
+}
+#cmapFeatured .bigButton .specialIcon {
+  padding: 0;
+  margin: 10px;
+  float: left;
+}
+#cmapFeatured .bigButton .specialIcon img {
+  width: 100%;
+}
+#cmapFeatured .bigButton .specialText {
+  color: #ffffff;
+  font-weight: 300;
+  font-size: 2.5em;
+  line-height: 1.2;
+  padding: 10px;
+  padding-top: 20px;
+  text-align: left;
+}
+#cmapFeatured .bigButton:hover {
+  background: #d43200;
+}
+#cmapFeatured p {
+  color: #999999;
+  font-size: 1.2em;
+  padding: 2%;
+}
+#cmapFeatured .bigButton {
+  cursor: pointer;
 }
 
 .boldnametitle {

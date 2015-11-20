@@ -11,32 +11,52 @@
 					<div class='row'>
 						<div class='span4'>
 							<div class='projectLogo'>
-								<img src='../../img/projects/logos/@stakelogo.png'>
+								<img src='../../logos/CMAP_logo.png'>
 							</div>
 						</div>
 						<div class='span8 projectDescription'>
-							<p>
-								<span>@Stake</span> is a role-playing / tabletop card game that fosters democracy, empathy, and creative problem solving for civic issues. Players take on a variety of roles and pitch ideas under a time pressure, competing to produce the best idea in the eyes of the table&#39;s &ldquo;Decider.&rdquo;
-							</p>
+							 <p>The core experience and outcomes of the CMAP program are centered around thesis projects. Students should think of the 12-month experience as structured primarily by creative works that they are expected to produce, in certain cases scaled projects in partnership with an external organization. These projects will highlight the relationship of media, art, and practice that the program strives to explore, across a wide range of approaches to the art &amp; design of civic media: e.g., a participatory digital campaign, mobile app, public art installation, interactive curriculum, virtual platform, or game. These projects will bring to life the theories and practices that CMAP students explore throughout the year.</p>
+
 						</div>
 					</div>
 					<div class='row'>
 						<div class='span6 projectContext'>
 							<h2 class='funTitle'>
-								Development
+								The Structure
 							</h2>
 							<p>	
-								Planning issues often involve conflicting interests coupled with deep resentments and community divides. Building a new highway, for example, is seldom only a question of the highway's design, but the destiny of the land, the community, and individual residents. 
+							The 12-month program will consist of three courses in the fall and spring terms, and two courses in the summer.
 							</p>
 							<p>
-								We were amazed at the success of @Stake in driving productive conversation at our UNDP workshop, and took it back to the Lab for further development. Since then, it&#39;s been used at the Frontiers of Democracy Conference, The Jewish Federation, youth ambassador programs for inner city planning institutions in Boston, and the United Nations in New York. Numerous expansions and customization packs have made the game robust enough to aid in processes of all types nationally and across the world.
+								Fall Semester (12 credits): (seminar, studio, production elective)
+								<ul>
+									<li>VM655: Topics in Media Studies (Civic Media Theory and Methods)</li>
+									<li>Course TBD: Civic Media Design Studio</li>
+									<li>Elective from list of available courses (see below)</li>
+								</ul>
 							</p>
 							<p>
-								Since its inception, @Stake has become one of our best tools for proving to others that games can be productive civic tools.
+								Spring Semester (12 credits) (seminar, studio, production elective)
+								<ul>
+									<li>VM655: Topics in Media Studies (Civic Media Theory and Methods)</li>
+									<li>Course TBD: Civic Media Design Studio</li>
+									<li>Elective from list of available courses (see below)</li>
+								</ul>
+							</p>
+							<p>
+								Summer (8 credits)
+								<ul>
+									<li>SOC 698 Masters Thesis (4 credits)</li>
+									<li>Course TBD: Salzburg Academy on Media &amp; Global Change (4 credits ) 
+									<br>Or Civic Media Design Studio (4 credits)
+									<br>Or Elective from list of available courses (4 credits)(see below)</li>
+								</ul>
 							</p>
 						</div>
 						<div class='span6 videoContainer'>
-							<iframe src="//player.vimeo.com/video/111892702?byline=0&amp;portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
+							<div class='projectLogo'>
+								<img src='../../logos/Egypt_Shift_Week_Lecture_2014.jpg'>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -45,38 +65,36 @@
 				<div class='theGame'>
 					<div class='row'>
 						<div class='span12'>
-							<h2 class='funTitle'>The Game</h2>
+							<h2 class='funTitle'>Core Courses</h2>
 							<p>
-								<img class='inlineImageRightMedium' src='../../img/projects/other/@workshop.png'>
-								<span>What is it about?</span> Before the game takes place, the play group must brainstorm topics for the game. The topics selected should be important questions for whatever real world process matters most to the players and their organization (ex. &ldquo;How can we get young people more involved in local issues?&rdquo;).
+								<span>Topics in Media Studies </span> The core seminar course will be required in fall and spring semesters and introduce students to such core theoretical principles of civic media as critical media studies, public and political art, theories of democracy, social movements and governance. In addition to understanding the primary theoretical debates, students will learn methodological approaches such as participatory action research, grounded theory, design research, ethnography, content analysis, and social network analysis.
 							</p>
 							<p>
-								<span>The Decider</span> Once the question for each round has been established, one player becomes the first &ldquo;Decider,&rdquo; the player who will pick from the other players&#39; pitches and determine which is best. It&#39;s up to them to keep time, promote fair play, and make prompt decisions in awarding points.							
+								<span>Civic Media Design Studio</span> This two-class sequence introduces concepts, methods and practices of civic media. The studio provides opportunity for students to make media in expressive or design modalities, and to develop skills in working with partners. The studio will provide a guided space in which to critically evaluate case studies in Civic Media and develop production, project management, and evaluation skills. Students hone collaborative development and production skills that correspond with their project.						
 							</p>
-							<p>
-								<span>Role Cards</span> All other players are assigned roles such as Mayor, Activist, or Student. Each role card features a short bio and three agenda goals that the players try to include in their pitches for bonus points.
-							</p>
-							<p>
-								<span>The Pitch</span> Players hear the question for the round, and are then given one minute to devise an idea. Pitching occurs in two phases. Each player has one minute to give their initial pitch to the Decider, and then there is a short discussion period during which players may ask questions of one another and try to achieve compromises to attach their agenda items to others&#39; plans.
-							</p>
-							<p>
-								<span>Decider</span> At the end of the round, the Decider must pick a winning pitch. That winning player earns points, then every player earns bonus points based on their agenda items. The new decider is the player that won the previous round.
-							</P>
-							<p><span>Rulebook and downloadable materials coming soon!</span></p>
-							<div class='span6 videoContainer'>
-								<img src='../../img/projects/other/@stakecard.png'>
-							</div>
+							
 						</div>
 					</div>
 				</div>
 				<div class='realActions extraPadding'>
 					<div class='row'>
 						<div class='span12'>
-							<h2 class='funTitle'>Workshops</h2>
+							<h2 class='funTitle'>Production Electives</h2>
 							<p>
-								As a new tool still in development, @Stake has been used in a number of workshops, including for the UN, non-profit organizations at Harvard University, and The Frontiers of Democracy. The Engagement Lab offers this game as a free tool, and also offers facilitated play sessions for organizations who are interested in using games to foster empathy, creativity, collaboration, deliberation, and enthusiasm in civic processes.
-							</p>
-							<p><span>Email us about using @Stake at <a href="mailto:info@elab.emerson.edu" target="_top">info@elab.emerson.edu</a></p>
+							The electives associated with CMAP will focus on production elements of the curriculum. These allow students to complement the theory and method seminars with concentrations in production-oriented courses. Below is a sample of the production courses that would align with the CMAP program. <i>This list is not complete, but offers a sample of the type of courses CMAP will offer to students.</i></p>
+							<ul>
+								<li>JRL623: Data Visualization </li>
+								<li>MK653: Web Page Development and Management</li>
+								<li>MK627: Interactive Communication Strategies in Digital Culture</li>
+								<li>VM613: Foundation of Image and Sound Production</li>
+								<li>VM618: Interactive Media Production</li>
+								<li>VM625: Computer Animation</li>
+								<li>VM621: Documentary Production</li>
+								<li>GM636: Creative Thinking and Problem Solving in a Global Environment</li>
+								<li>GM636: Interactive and e-Communication in a Global Environment</li>
+								<li>CC640: Web-based Communication Strategies</li>
+								<li>CC652: Emerging Communication Technologies</li>
+							</ul>						
 						</div>
 					</div>
 				</div>
@@ -85,7 +103,7 @@
    		</div>
 		<?php include '../../footer.php' ?>
 
-    	<!- Los javascripts ->
+    	<!-- Los javascripts -->
     	<script src='/js/libs/lab.js'></script>
     	<script>
     		$LAB
