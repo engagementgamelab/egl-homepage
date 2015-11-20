@@ -9379,7 +9379,23 @@ a.badge:focus {
   padding-top:2%;
   padding-bottom:2%;
 }
-
+.ideaSection {
+  width: 60%;
+}
+.list ul {
+  margin-left: -50px;
+  margin-right: 1%;
+  margin-bottom: 5%;
+  padding-top: 5%;
+  font-size: 20px;
+}
+.image {
+  position: absolute;
+  z-index: 1;
+  display: inline;
+  float: right;
+  margin-bottom: 2%;
+}
 .blueCircle{
   width:192px;
   height:192px;

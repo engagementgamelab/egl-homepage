@@ -13,7 +13,7 @@
 							</h1>
 					<div class="row">
 						<div class="span6 person peoplebw">
-							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#ericBio" src="../../img/people/bio/color/real_eric.jpg" data-real="eric" class="headshot"></div><p></p>
+							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#ericBio" src="../../img/people/bio/color/real_eric1.jpg" data-real="eric" class="headshot"></div><p></p>
 							<p class="trigger" data-toggle="collapse" data-target="#ericBio"><span class="boldnametitle">Eric Gordon</span></p>
 							<p class="trigger" data-toggle="collapse" data-target="#ericBio">Director &amp; Associate Professor</p>
 							<div id="ericBio" class="collapse out">

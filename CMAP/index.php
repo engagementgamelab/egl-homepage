@@ -112,52 +112,60 @@
           <div class="row">
             <h1 id='engagementgames'><strong>Is CMAP the Right Program for You?</strong></h1>
             <p class='bigIdea'>
-            	Whether you are coming straight out of an undergraduate program and want to pursue an advanced degree or someone who has spent some years working in industry and are looking to refine your skills and position yourself more strongly in the field of civic media, we want you to consider applying <a href="apply/"> to CMAP</a>.
+            	Whether you are coming straight out of an undergraduate program and want to pursue an advanced degree or someone who has spent some years working in industry and are looking to refine your skills and position yourself more strongly in the field of civic media, we want you to consider applying <!-- <a href="apply/"> --> to CMAP<!-- </a> -->.
               </p>
           </div>
-          <div class="row smallIdea"><p>CMAP strives to produce leaders of the knowledge economy and aims to help empower young entrepreneurs, socially-engaged artists, and civic leaders who will embrace innovative and dynamic career opportunities. There are an increasing number of careers in communication and innovation within the public or non-profit sectors that call for this kind of multi-faceted expertise. In CMAP, students will gain experience working with government, international aid organizations and community-based organizations and will be prepared for careers in 
-          </p></div>
-          <div class="row">
-            <div class="span4">
-              <ul>
-                <li>
-                  <p>Community Manager</p>
-                </li>
-                <li>
-                  <p>Director of Civic Engagement</p>
-                </li>
-                <li>
-                  <p>Civic Technologist</p>
-                </li>
-                <li>
-                  <p>Civic Artist</p>
-                </li>
-                <li>
-                  <p>Digital Strategist</p>
-                </li>
-              </ul>
-            </div>
-            <div class="span4">
-              <ul>
-                <li>
-                  <p>Innovation Director</p>
-                </li>
-                <li>
-                  <p>Civic Designer</p>
-                </li>
-                <li>
-                  <p>New Media Catalyst</p>
-                </li>
-                <li>
-                  <p>Communications Director</p>
-                </li>
-                <li>
-                  <p>Community Relations</p>
-                </li>
-              </ul>
-            </div>
+         
+	          <div class="row smallIdea"><p>CMAP strives to produce leaders of the knowledge economy and aims to help empower young entrepreneurs, socially-engaged artists, and civic leaders who will embrace innovative and dynamic career opportunities. There are an increasing number of careers in communication and innovation within the public or non-profit sectors that call for this kind of multi-faceted expertise. In CMAP, students will gain experience working with government, international aid organizations and community-based organizations and will be prepared for careers in 
+	          </p></div>
+	         
+         <div class="row">
+	         <div class="span6">
+		          <div class="row list">
+		            <div class="span3">
+		              <ul>
+		                <li>
+		                  <p>Community Manager</p>
+		                </li>
+		                <li>
+		                  <p>Director of Civic Engagement</p>
+		                </li>
+		                <li>
+		                  <p>Civic Technologist</p>
+		                </li>
+		                <li>
+		                  <p>Civic Artist</p>
+		                </li>
+		                <li>
+		                  <p>Digital Strategist</p>
+		                </li>
+		              </ul>
+		            </div>
+		            <div class="span3">
+		              <ul>
+		                <li>
+		                  <p>Innovation Director</p>
+		                </li>
+		                <li>
+		                  <p>Civic Designer</p>
+		                </li>
+		                <li>
+		                  <p>New Media Catalyst</p>
+		                </li>
+		                <li>
+		                  <p>Communications Director</p>
+		                </li>
+		                <li>
+		                  <p>Community Relations</p>
+		                </li>
+		              </ul>
+		            </div>
+		          </div>
+	          </div>
+	          <div class="span4 image">
+		          <img src="/logos/hackpad.png" style="width: 400px;">
+	         </div>
           </div>
-          
         </div>
       </div>
     </div>
