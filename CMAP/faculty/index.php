@@ -9,7 +9,7 @@
 			<div class='whatIsIt'>
 				<div class='container cmapFaculty'>
 					<h1 class='funTitle'>
-								Engagement Lab Faculty
+								Core Faculty
 							</h1>
 					<div class="row">
 						<div class="span4 person peoplebw">
@@ -29,7 +29,7 @@
 						<div class="span4 person peoplebw">
 							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#cathBio" src="../../img/people/bio/cath.jpg" data-real="catch" class="headshot"></div><p></p>
 							<p class="trigger" data-toggle="collapse" data-target="#cathBio"><span class="boldnametitle">Catherine D'Ignazio</span></p>
-							<p class="trigger" data-toggle="collapse" data-target="#cathBio">Fellow &amp; Associate Professor,<br /> School of Journalism</p>
+							<p class="trigger" data-toggle="collapse" data-target="#cathBio">Fellow &amp; Assistant Professor,<br /> School of Journalism</p>
 							<div id="cathBio" class="collapse out">
 								<p>
 									Catherine is a researcher, artist and software developer who investigates how data visualization, technology and new forms of storytelling can be used for civic engagement. She has conducted research on geographic bias in the news media, developed software to geolocate news articles and designed an application, “Terra Incognita”, to promote global news discovery. She is currently working with the Public Laboratory for Technology and Science to create an open source water sensing toolkit for journalists. Her art and design projects have won awards from the Tanne Foundation, Turbulence.org, the LEF Foundation, and Dream It, Code It, Win It. In 2009, she was a finalist for the Foster Prize at the ICA Boston. Her work has been exhibited at the Eyebeam Center for Art & Technology, Museo d'Antiochia of Medellin, and the Venice Biennial. She is also a Research Affiliate at the MIT Center for Civic Media.
@@ -43,7 +43,7 @@
 						<div class="span4 person peoplebw">
 							<p></p><div class="bwcontainer"><img data-toggle="collapse" data-target="#paulBio" src="../../img/people/bio/paul.jpg" data-real="paul" class="headshot"></div><p></p>
 							<p class="trigger" data-toggle="collapse" data-target="#paulBio"><span class="boldnametitle">Paul Mihailidis</span></p>
-							<p class="trigger" data-toggle="collapse" data-target="#paulBio">Associate Director &amp; Assistant Professor,<br /> Department of Marketing Communication</p>
+							<p class="trigger" data-toggle="collapse" data-target="#paulBio">Associate Director <br />&amp; Associate Professor,<br /> Department of Marketing Communication</p>
 							<div id="paulBio" class="collapse out">
 								<p>
 									Paul is an assistant professor at Emerson College in Boston, MA, and the Director of the <a href="http://salzburg.umd.edu/">Salzburg Academy on Media and Global Change</a>. His work focuses on media literacy and emerging civic voices. He has spoken and written extensively on the need for media literacy as a core competency in engaged citizenship.
@@ -71,13 +71,13 @@
 		                <li>
 		                  <p><a href="https://www.emerson.edu/academics/faculty-guide/profile/polly-carl/3501">Polly Carl</a> Distinguished Artist-in-Residence, Department of Performing Arts</p>
 		                </li>
+		                <li>
+		                  <p><a href="https://www.emerson.edu/academics/faculty-guide/profile/russell-newman/3312">Russell Newman</a> Assistant Professor, Institute for Liberal Arts &amp; Interdisciplinary Studies</p>
+		                </li>
 		              </ul>
 		            </div>
 		            <div class="span6">
 		              <ul>
-		                <li>
-		                  <p><a href="https://www.emerson.edu/academics/faculty-guide/profile/russell-newman/3312">Russell Newman</a> Assistant Professor, Institute for Liberal Arts &amp; Interdisciplinary Studies</p>
-		                </li>
 		                <li>
 		                  <p><a href="https://www.emerson.edu/academics/faculty-guide/profile/vincent-raynauld/3315">Vincent Raynauld</a> Assistant Professor, Department of Communications Studies</p>
 		                </li>
