@@ -9836,6 +9836,14 @@ padding-bottom: 5%;
   color: #ffffff;
   font-weight: 300;
 }
+
+/* Hackity hack */
+@media (max-width: 640px) {
+  #projectBlurb .vid {
+    max-width: 290px;
+  }
+}
+
 #courses {
   margin-bottom: 80px;
 }

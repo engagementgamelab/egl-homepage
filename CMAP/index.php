@@ -94,7 +94,11 @@
         <div class='projectBlurbBody'>
           <div class="row">
             <div class="row smallIdea">
-              <h1 id='engagementgames'><strong>Is CMAP the Right Program for You?</strong></h1><p>CMAP strives to produce leaders of the knowledge economy and aims to help empower young entrepreneurs, socially-engaged artists, and civic leaders who will embrace innovative and dynamic career opportunities. There are an increasing number of careers in communication and innovation within the public or non-profit sectors that call for this kind of multi-faceted expertise. In CMAP, students will gain experience working with government, international aid organizations and community-based organizations, and will be prepared for a variety of roles as creative leaders, makers and thinkers.</p></div>
+              <h1 id='engagementgames'><strong>Is CMAP the Right Program for You?</strong></h1>
+
+              <iframe src="https://player.vimeo.com/video/146805861?color=d43200&title=0&byline=0&portrait=0" class="vid" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+              <p>CMAP strives to produce leaders of the knowledge economy and aims to help empower young entrepreneurs, socially-engaged artists, and civic leaders who will embrace innovative and dynamic career opportunities. There are an increasing number of careers in communication and innovation within the public or non-profit sectors that call for this kind of multi-faceted expertise. In CMAP, students will gain experience working with government, international aid organizations and community-based organizations, and will be prepared for a variety of roles as creative leaders, makers and thinkers.</p></div>
             <p class='row smallIdea'>
               Whether you are coming straight out of an undergraduate program and want to pursue an advanced degree or have been working in industry and are looking to refine your skills and position yourself more strongly in the field of civic media, we suggest you consider applying <!-- <a href="apply/"> --> to CMAP<!-- </a> -->.
             </p>
